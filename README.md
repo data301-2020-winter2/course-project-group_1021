@@ -18,7 +18,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 - Ravi Bullock: 3rd Year Computer Science Major
 - Angel Yu: Passionate about the intersection of tech and healthcare
-- Person 3: one sentence about you!
+- Manya Narwal: Intrested in economic analysis
 
 ## References
 
