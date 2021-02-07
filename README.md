@@ -17,7 +17,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Team Members
 
 - Ravi Bullock: 3rd Year Computer Science Major
-- Person 2: one sentence about you!
+- Angel Yu: Passionate about the intersection of tech and healthcare
 - Person 3: one sentence about you!
 
 ## References
