@@ -1,4 +1,4 @@
-# Group YYY - {Short snappy Title of your project}
+# Group YYY - {Medical Expenses}
 
 - Your title can change over time.
 
