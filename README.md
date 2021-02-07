@@ -12,7 +12,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+{Add your stuff here} This dataset was obtained from the book Machine Learning with R by Brett Lantz. It was produced in 2013. The data showcases the medical costs of individuals based on their age, sex, BMI, number of children, smoking habits and residential location. 
 
 ## Team Members
 
