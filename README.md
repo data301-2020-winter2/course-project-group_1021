@@ -8,7 +8,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+{Add your stuff here}We are investigating to see the coorelation between sex in terms of medical charges and how does other factors affect 
 
 ## Describe your dataset in about 150-200 words
 
