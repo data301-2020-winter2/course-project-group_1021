@@ -11,17 +11,17 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 This dataset showcases the medical insurance costs of individuals in the United States based on their age, sex, BMI, number of children, smoking habits and place of residence. We are interested in this topic because we would like to know which factors have the most influence on the medical insurance costs and hopefully speculate the reason why this is the case. We first wish to investigate simple questions such as:
 
-Is there a correlation between age and medical insurance costs? 
-Does an individual's BMI influence their medical insurance costs? 
-How does the number of children someone has change their medical insurance costs? 
-Do smokers have higher medical insurance costs?
+* Is there a correlation between age and medical insurance costs? 
+* Does an individual's BMI influence their medical insurance costs? 
+* How does the number of children someone has change their medical insurance costs? 
+* Do smokers have higher medical insurance costs?
 
 We then wish to investigate more complex questions such as:
 
-Is there a gender bias present within the costs of medical insurance? If there is, how is this bias emphasized by other demographic factors?
-How does the cost of medical insurance change for each year an individual ages? 
-Which combination of factors produces the lowest medical costs? Which combination produces the highest?
-How do medical insurance costs change throughout the quadrants presented in the dataset? 
+* Is there a gender bias present within the costs of medical insurance? If there is, how is this bias emphasized by other demographic factors?
+* How does the cost of medical insurance change for each year an individual ages? 
+* Which combination of factors produces the lowest medical costs? Which combination produces the highest?
+* How do medical insurance costs change throughout the quadrants presented in the dataset? 
 
 We will be using a variety of linear algebra and statistical tools to analyze and give mathematical insight on the questions we proposed. In the end we want a model that will reflect our analysis and can be used to help predict the medical insurance costs of individuals based on their demographic information.
 
