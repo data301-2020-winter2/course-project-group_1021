@@ -1,1 +1,5 @@
-All data used in our project will be placed in this folder.
+#Data Folder
+---
+This folder contains all the data used in the project. It is split into two sections:
+* **Raw data**
+* **Processed Data**
