@@ -1,1 +1,5 @@
-Our individual Jupyter files will be placed in this folder
+##Analysis Folder##
+In this folder, you can find the Jupter Notebooks of:
+* **Ravi Bullock**
+* **Angel Yu**
+* **Manya Narwal**
