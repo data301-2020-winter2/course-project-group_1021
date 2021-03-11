@@ -1,16 +1,9 @@
-
-<font color = pink>#Angel's work<font>
-                                   
-<br><br>
-<font color= blue>##Milestone 1</font><br>
-    ( - )wrote the description for topic/interest<br>
-    ( - )set up dataframe <br><br>
-<font color= blue>##Milestone 2</font><br>
-    ( - )played with markdown
-    ( - )method chain
-    ( - )EDA
-
-    
-
-
-
+# Angel's work #
+*This file will keep track of Angel's work throughout this project*                           
+## Milestone 1 ##
+- [x] wrote the description for topic/interest
+- [x] set up dataframe
+## Milestone 2 ##
+- [x] played with markdown
+- [ ] method chain
+- [ ] EDA
