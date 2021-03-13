@@ -79,3 +79,180 @@ def smokers_only(url_or_path_to_csv_file):
     )
     
     return df2
+
+def top50(url_or_path_to_csv_file):
+    df = (
+        pd.read_csv(url_or_path_to_csv_file)
+        .rename(columns={"age":"Age"})
+        .rename(columns={"sex":"Sex"})
+        .rename(columns={"bmi":"BMI"})
+        .rename(columns={"children":"Number of Children"})
+        .rename(columns={"smoker":"Smoker"})
+        .rename(columns={"region":"Place of Residence"})
+        .rename(columns={"charges":"Medical Insurance Charges"}) 
+    )
+        
+    df2 = (
+        df
+        .sort_values(['Medical Insurance Charges'], ascending = False) 
+        .head(50)
+        .reset_index()
+        .drop(['index'], axis=1)
+    )
+    
+    return df2
+
+def top10(url_or_path_to_csv_file):
+    df = (
+        pd.read_csv(url_or_path_to_csv_file)
+        .rename(columns={"age":"Age"})
+        .rename(columns={"sex":"Sex"})
+        .rename(columns={"bmi":"BMI"})
+        .rename(columns={"children":"Number of Children"})
+        .rename(columns={"smoker":"Smoker"})
+        .rename(columns={"region":"Place of Residence"})
+        .rename(columns={"charges":"Medical Insurance Charges"}) 
+    )
+        
+    df2 = (
+        df
+        .sort_values(['Medical Insurance Charges'], ascending = False) 
+        .head(10)
+        .reset_index()
+        .drop(['index'], axis=1)
+    )
+    
+    return df2
+
+def bot50(url_or_path_to_csv_file):
+    df = (
+        pd.read_csv(url_or_path_to_csv_file)
+        .rename(columns={"age":"Age"})
+        .rename(columns={"sex":"Sex"})
+        .rename(columns={"bmi":"BMI"})
+        .rename(columns={"children":"Number of Children"})
+        .rename(columns={"smoker":"Smoker"})
+        .rename(columns={"region":"Place of Residence"})
+        .rename(columns={"charges":"Medical Insurance Charges"}) 
+    )
+        
+    df2 = (
+        df
+        .sort_values(['Medical Insurance Charges'], ascending = True) 
+        .head(50)
+        .reset_index()
+        .drop(['index'], axis=1)
+    )
+    return df2
+
+def bot10(url_or_path_to_csv_file):
+    df = (
+        pd.read_csv(url_or_path_to_csv_file)
+        .rename(columns={"age":"Age"})
+        .rename(columns={"sex":"Sex"})
+        .rename(columns={"bmi":"BMI"})
+        .rename(columns={"children":"Number of Children"})
+        .rename(columns={"smoker":"Smoker"})
+        .rename(columns={"region":"Place of Residence"})
+        .rename(columns={"charges":"Medical Insurance Charges"}) 
+    )
+        
+    df2 = (
+        df
+        .sort_values(['Medical Insurance Charges'], ascending = True) 
+        .head(10)
+        .reset_index()
+        .drop(['index'], axis=1)
+    )
+    return df2
+
+def top30male(url_or_path_to_csv_file):
+    df = (
+        pd.read_csv(url_or_path_to_csv_file)
+        .rename(columns={"age":"Age"})
+        .rename(columns={"sex":"Sex"})
+        .rename(columns={"bmi":"BMI"})
+        .rename(columns={"children":"Number of Children"})
+        .rename(columns={"smoker":"Smoker"})
+        .rename(columns={"region":"Place of Residence"})
+        .rename(columns={"charges":"Medical Insurance Charges"}) 
+    )
+        
+    df2 = (
+        df
+        .sort_values(['Medical Insurance Charges'], ascending = False) 
+        .drop(df[df.Sex == "female"].index)
+        .head(30)
+        .reset_index()
+        .drop(['index'], axis=1)
+    )
+    
+    return df2
+def top30female(url_or_path_to_csv_file):
+    df = (
+        pd.read_csv(url_or_path_to_csv_file)
+        .rename(columns={"age":"Age"})
+        .rename(columns={"sex":"Sex"})
+        .rename(columns={"bmi":"BMI"})
+        .rename(columns={"children":"Number of Children"})
+        .rename(columns={"smoker":"Smoker"})
+        .rename(columns={"region":"Place of Residence"})
+        .rename(columns={"charges":"Medical Insurance Charges"}) 
+    )
+        
+    df2 = (
+        df
+        .sort_values(['Medical Insurance Charges'], ascending = False) 
+        .drop(df[df.Sex == "male"].index)
+        .head(30)
+        .reset_index()
+        .drop(['index'], axis=1)
+    )
+    
+    return df2
+
+def bot30male(url_or_path_to_csv_file):
+    df = (
+        pd.read_csv(url_or_path_to_csv_file)
+        .rename(columns={"age":"Age"})
+        .rename(columns={"sex":"Sex"})
+        .rename(columns={"bmi":"BMI"})
+        .rename(columns={"children":"Number of Children"})
+        .rename(columns={"smoker":"Smoker"})
+        .rename(columns={"region":"Place of Residence"})
+        .rename(columns={"charges":"Medical Insurance Charges"}) 
+    )
+        
+    df2 = (
+        df
+        .sort_values(['Medical Insurance Charges'], ascending = True) 
+        .drop(df[df.Sex == "female"].index)
+        .head(30)
+        .reset_index()
+        .drop(['index'], axis=1)
+    )
+    
+    return df2
+
+def bot30female(url_or_path_to_csv_file):
+    df = (
+        pd.read_csv(url_or_path_to_csv_file)
+        .rename(columns={"age":"Age"})
+        .rename(columns={"sex":"Sex"})
+        .rename(columns={"bmi":"BMI"})
+        .rename(columns={"children":"Number of Children"})
+        .rename(columns={"smoker":"Smoker"})
+        .rename(columns={"region":"Place of Residence"})
+        .rename(columns={"charges":"Medical Insurance Charges"}) 
+    )
+        
+    df2 = (
+        df
+        .sort_values(['Medical Insurance Charges'], ascending = True) 
+        .drop(df[df.Sex == "male"].index)
+        .head(30)
+        .reset_index()
+        .drop(['index'], axis=1)
+    )
+    
+    return df2
