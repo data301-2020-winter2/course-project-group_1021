@@ -1,4 +1,4 @@
-# Group 1021 - Demographic Influence on Medical Insurance Costs
+ # Group 1021 - Demographic Influence on Medical Insurance Costs
 
 - Investigating the influence that demographic factors of age, sex, BMI, number of children, smoking habits and place of residence have on the medical insurance costs of individuals in the United States
 
@@ -33,7 +33,7 @@ This dataset was obtained from the book *Machine Learning with R* by Brett Lantz
 
 - **Ravi Bullock:** 3rd Year Computer Science Major
 - **Angel Yu:** Passionate about the intersection of tech and healthcare
-- **Manya Narwal:** Intrested in economic analysis
+- **Manya Narwal:** Interested in economic analysis
 
 ## References
 Lantz, B. (2015). *Machine Learning with R - Second Edition*. Birmingham: Packt Publishing.
