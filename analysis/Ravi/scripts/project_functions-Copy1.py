@@ -1,5 +1,5 @@
 import pandas as pd
-def load(url_or_path_to_csv_file):
+def load_and_process(url_or_path_to_csv_file):
     
     df = (
         pd.read_csv(url_or_path_to_csv_file)
