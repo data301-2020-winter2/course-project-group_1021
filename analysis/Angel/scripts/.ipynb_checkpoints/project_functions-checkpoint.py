@@ -256,3 +256,57 @@ def bot30female(url_or_path_to_csv_file):
     )
     
     return df2
+
+def theory_highest(url_or_path_to_csv_file):
+    df = (
+        pd.read_csv(url_or_path_to_csv_file)
+        .rename(columns={"age":"Age"})
+        .rename(columns={"sex":"Sex"})
+        .rename(columns={"bmi":"BMI"})
+        .rename(columns={"smoker":"Smoker"})
+        .rename(columns={"charges":"Medical Insurance Charges"}) 
+    )
+        
+    df2 = (
+        df
+        .loc[(df['Sex']=='male') & 
+            (df['Age']<=55) &
+            (df['children']<=2) &
+            (df['Smoker']=='yes') &
+            (df['region']=="southeast") &
+            (df['BMI']>=30)]
+        .reset_index()
+        .drop(['index'], axis=1)
+        .rename(columns={"children":"Number of Children"})
+        .rename(columns={"region":"Place of Residence"})
+    )
+    
+    return df2
+
+def theory_lowest(url_or_path_to_csv_file):
+    df = (
+        pd.read_csv(url_or_path_to_csv_file)
+        .rename(columns={"age":"Age"})
+        .rename(columns={"sex":"Sex"})
+        .rename(columns={"bmi":"BMI"})
+        .rename(columns={"smoker":"Smoker"})
+        .rename(columns={"charges":"Medical Insurance Charges"}) 
+    )
+    
+
+        
+    df2 = (
+        df
+        .loc[(df['Sex']=='female') & 
+            (df['Age']<=25) &
+            (df['children']>2) &
+            (df['Smoker']=='no') &
+            (df['region']=="southwest") &
+            (df['BMI']<=25)]
+        .reset_index()
+        .drop(['index'], axis=1)
+        .rename(columns={"children":"Number of Children"})
+        .rename(columns={"region":"Place of Residence"})
+    )
+    
+    return df2

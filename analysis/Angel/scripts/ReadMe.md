@@ -5,4 +5,4 @@ Because this dataset is relatively clean and all the columns are useful, I'm not
 
 The first method chain is just to read the csv file and rename the columns to be consistent with my teammate.
 
-From there on, I'm making a bunch of method chains to create new dataframes 
+From there on, I'm making a bunch of method chains to create new dataframes to help with my analysis. Here it mostly involves dropping certain rows that don't fit the wanted conditions and then resetting the index.

@@ -1,0 +1,1 @@
+This script is the same as in the other folders. This folder is to help the Milestone2 file. 
