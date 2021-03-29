@@ -35,7 +35,10 @@ Looking at our plan, Ravi took care of the simple questions we wrote down so far
     
 - [x] Top 30 men/women
 - [x] Bottom 30 men/women
+## Milestone 3 ##
+- [ ] address feedback
+- [ ] make repository public
+- [ ] process data for tableau
+- [ ] create new release
 
-
-
-    
+I addressed the feedback that pertained to what I did in the last milestone which are fixing the "Medical Insurance Charges Distribution between Male and Female Smokers" graph and explaining the dataset I created further.
