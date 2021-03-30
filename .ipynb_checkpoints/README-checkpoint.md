@@ -1,4 +1,4 @@
-# Group 1021 - Demographic Influence on Medical Insurance Costs
+ # Group 1021 - Demographic Influence on Medical Insurance Costs
 
 - Investigating the influence that demographic factors of age, sex, BMI, number of children, smoking habits and place of residence have on the medical insurance costs of individuals in the United States
 

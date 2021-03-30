@@ -35,7 +35,12 @@ Looking at our plan, Ravi took care of the simple questions we wrote down so far
     
 - [x] Top 30 men/women
 - [x] Bottom 30 men/women
+## Milestone 3 ##
+- [x] address feedback
+- [x] make repository public
+- [x] process data for tableau
+- [x] create new release
 
+I addressed the feedback that pertained to what I did in the last milestone which are fixing the "Medical Insurance Charges Distribution between Male and Female Smokers" graphs by making them subplots instead as the overlaying colors were confusing. As well, I went through the entire EDA and further explained some tables and datasets. 
 
-
-    
+The processed data for tableau did not require anything further than our original "load" function as tableau has filters that would take care of the other functions created. 
