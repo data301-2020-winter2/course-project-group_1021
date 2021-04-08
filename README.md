@@ -36,7 +36,7 @@ This dataset was obtained from the book *Machine Learning with R* by Brett Lantz
 - **Manya Narwal:** Interested in economic analysis
 
 ## Tableau Online Links (Lab 7)
-- **Angel: ** https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346006?:origin=card_share_link
+- **Angel:** https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346006?:origin=card_share_link
 
 
 ## References
