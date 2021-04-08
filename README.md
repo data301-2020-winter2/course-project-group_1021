@@ -37,7 +37,7 @@ This dataset was obtained from the book *Machine Learning with R* by Brett Lantz
 
 ## Tableau Online Links (Lab 7)
 - **Angel:** https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346006?:origin=card_share_link
-
+-**Manya:** https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346045/views
 
 ## References
 Lantz, B. (2015). *Machine Learning with R - Second Edition*. Birmingham: Packt Publishing.
