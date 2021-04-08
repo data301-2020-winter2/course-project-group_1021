@@ -44,3 +44,8 @@ Looking at our plan, Ravi took care of the simple questions we wrote down so far
 I addressed the feedback that pertained to what I did in the last milestone which are fixing the "Medical Insurance Charges Distribution between Male and Female Smokers" graphs by making them subplots instead as the overlaying colors were confusing. As well, I went through the entire EDA and further explained some tables and datasets. 
 
 The processed data for tableau did not require anything further than our original "load" function as tableau has filters that would take care of the other functions created. 
+
+## Milestone 4 ##
+- [x] created Tableau workbook
+- [x] published Tableau workbook
+- [x] committed to repository

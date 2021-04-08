@@ -35,6 +35,10 @@ This dataset was obtained from the book *Machine Learning with R* by Brett Lantz
 - **Angel Yu:** Passionate about the intersection of tech and healthcare
 - **Manya Narwal:** Interested in economic analysis
 
+## Tableau Online Links (Lab 7)
+- **Angel: ** https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346006?:origin=card_share_link
+
+
 ## References
 Lantz, B. (2015). *Machine Learning with R - Second Edition*. Birmingham: Packt Publishing.
 
