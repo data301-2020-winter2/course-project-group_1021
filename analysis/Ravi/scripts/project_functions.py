@@ -10,7 +10,14 @@ def load_and_process(url_or_path_to_csv_file):
         .rename(columns={"smoker":"Smoker"})
         .rename(columns={"region":"Place of Residence"})
         .rename(columns={"charges":"Medical Insurance Charges"})
-        
+        .replace(to_replace='southwest',value='S.W.')
+        .replace(to_replace='northwest',value='N.W.')
+        .replace(to_replace='southeast',value='S.E.')
+        .replace(to_replace='northeast',value='N.E.')
+        .replace(to_replace='male',value='Male')
+        .replace(to_replace='female',value='Female')
+        .replace(to_replace='yes',value='Yes')
+        .replace(to_replace='no',value='No')
     )
     
     return df

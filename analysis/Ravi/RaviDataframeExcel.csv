@@ -1,0 +1,1339 @@
+,Age,Sex,BMI,Number of Children,Smoker,Place of Residence,Medical Insurance Charges,Charges Groups,Age Groups,BMI Category
+172,18,Male,15.96,0,No,N.E.,1694.7964,0-10K,15-25,Underweight
+1226,38,Male,16.815,2,No,N.E.,6640.54485,0-10K,35-45,Underweight
+428,21,Female,16.815,1,No,N.E.,3167.45585,0-10K,15-25,Underweight
+412,26,Female,17.195,2,Yes,N.E.,14455.64405,10K-20K,25-35,Underweight
+1286,28,Female,17.29,0,No,N.E.,3732.6251,0-10K,25-35,Underweight
+1029,37,Female,17.29,2,No,N.E.,6877.9801,0-10K,35-45,Underweight
+250,18,Male,17.29,2,Yes,N.E.,12829.4551,10K-20K,15-25,Underweight
+28,23,Male,17.385,1,No,N.W.,2775.19215,0-10K,15-25,Underweight
+680,21,Female,17.4,1,No,S.W.,2585.269,0-10K,15-25,Underweight
+410,19,Male,17.48,0,No,N.W.,1621.3402,0-10K,15-25,Underweight
+821,26,Male,17.67,0,No,N.W.,2680.9493,0-10K,25-35,Underweight
+128,32,Female,17.765,2,Yes,N.W.,32734.1863,30K-40K,25-35,Underweight
+232,19,Female,17.8,0,No,S.W.,1727.785,0-10K,15-25,Underweight
+1205,35,Male,17.86,1,No,N.W.,5116.5004,0-10K,25-35,Underweight
+380,27,Female,17.955,2,Yes,N.E.,15006.57945,10K-20K,25-35,Underweight
+198,51,Female,18.05,0,No,N.W.,9644.2525,0-10K,45-55,Underweight
+1085,39,Female,18.3,5,Yes,S.W.,19023.26,10K-20K,35-45,Underweight
+1074,60,Female,18.335,0,No,N.E.,13204.28565,10K-20K,55-65,Underweight
+1133,52,Female,18.335,0,No,N.W.,9991.03765,0-10K,45-55,Underweight
+950,57,Male,18.335,0,No,N.E.,11534.87265,10K-20K,55-65,Underweight
+684,33,Female,18.5,1,No,S.W.,4766.022,0-10K,25-35,Underweight
+1129,19,Female,18.6,0,No,S.W.,1728.897,0-10K,15-25,Normal Weight
+1027,23,Male,18.715,0,No,N.W.,21595.38229,20K-30K,15-25,Normal Weight
+169,27,Male,18.905,3,No,N.E.,4827.90495,0-10K,25-35,Normal Weight
+613,34,Female,19.0,3,No,N.E.,6753.038,0-10K,25-35,Normal Weight
+1100,33,Female,19.095,2,Yes,N.E.,16776.30405,10K-20K,25-35,Normal Weight
+1004,47,Male,19.19,1,No,N.E.,8627.5411,0-10K,45-55,Normal Weight
+99,38,Male,19.3,0,Yes,S.W.,15820.699,10K-20K,35-45,Normal Weight
+769,38,Female,19.475,2,No,N.W.,6933.24225,0-10K,35-45,Normal Weight
+591,47,Male,19.57,1,No,N.W.,8428.0693,0-10K,45-55,Normal Weight
+990,26,Female,19.8,1,No,S.W.,3378.91,0-10K,25-35,Normal Weight
+266,40,Male,19.8,1,Yes,S.E.,17179.522,10K-20K,35-45,Normal Weight
+1251,19,Male,19.8,0,No,S.W.,1241.565,0-10K,15-25,Normal Weight
+863,36,Female,19.855,0,No,N.E.,5458.04645,0-10K,35-45,Normal Weight
+395,46,Male,19.855,0,No,N.W.,7526.70645,0-10K,45-55,Normal Weight
+1119,30,Female,19.95,3,No,N.W.,5693.4305,0-10K,25-35,Normal Weight
+1082,38,Male,19.95,1,No,N.W.,5855.9025,0-10K,35-45,Normal Weight
+1290,38,Female,19.95,2,No,N.E.,7133.9025,0-10K,35-45,Normal Weight
+560,46,Female,19.95,2,No,N.W.,9193.8385,0-10K,45-55,Normal Weight
+182,22,Male,19.95,3,No,N.E.,4005.4225,0-10K,15-25,Normal Weight
+98,56,Male,19.95,0,Yes,N.E.,22412.6485,20K-30K,55-65,Normal Weight
+994,27,Female,20.045,3,Yes,N.W.,16420.49455,10K-20K,25-35,Normal Weight
+896,43,Female,20.045,2,Yes,N.E.,19798.05455,10K-20K,35-45,Normal Weight
+927,57,Female,20.1,1,No,S.W.,12032.326,10K-20K,55-65,Normal Weight
+1011,43,Male,20.13,2,Yes,S.E.,18767.7377,10K-20K,35-45,Normal Weight
+972,22,Female,20.235,0,No,N.W.,2527.81865,0-10K,15-25,Normal Weight
+586,21,Male,20.235,3,No,N.E.,3861.20965,0-10K,15-25,Normal Weight
+431,29,Female,20.235,2,No,N.W.,4906.40965,0-10K,25-35,Normal Weight
+411,44,Female,20.235,1,Yes,N.E.,19594.80965,10K-20K,35-45,Normal Weight
+681,19,Male,20.3,0,No,S.W.,1242.26,0-10K,15-25,Normal Weight
+1109,45,Male,20.35,3,No,S.E.,8605.3615,0-10K,35-45,Normal Weight
+404,31,Male,20.4,0,No,S.W.,3260.199,0-10K,25-35,Normal Weight
+35,19,Male,20.425,0,No,N.W.,1625.43375,0-10K,15-25,Normal Weight
+989,24,Female,20.52,0,Yes,N.E.,14571.8908,10K-20K,15-25,Normal Weight
+1260,32,Female,20.52,0,No,N.E.,4544.2348,0-10K,25-35,Normal Weight
+400,51,Female,20.6,0,No,S.W.,9264.797,0-10K,45-55,Normal Weight
+1316,19,Female,20.6,0,No,S.W.,1731.677,0-10K,15-25,Normal Weight
+276,19,Male,20.615,2,No,N.W.,2803.69785,0-10K,15-25,Normal Weight
+584,19,Male,20.7,0,No,S.W.,1242.816,0-10K,15-25,Normal Weight
+359,18,Female,20.79,0,No,S.E.,1607.5101,0-10K,15-25,Normal Weight
+1302,25,Female,20.8,1,No,S.W.,3208.787,0-10K,15-25,Normal Weight
+37,26,Male,20.8,0,No,S.W.,2302.3,0-10K,25-35,Normal Weight
+248,19,Male,20.9,1,No,S.W.,1832.094,0-10K,15-25,Normal Weight
+793,53,Male,20.9,0,Yes,S.E.,21195.818,20K-30K,45-55,Normal Weight
+812,54,Male,21.01,2,No,S.E.,11013.7119,10K-20K,45-55,Normal Weight
+370,61,Female,21.09,0,No,N.W.,13415.0381,10K-20K,55-65,Normal Weight
+408,38,Male,21.12,3,No,S.E.,6652.5288,0-10K,35-45,Normal Weight
+1242,22,Female,21.28,3,No,N.W.,4296.2712,0-10K,15-25,Normal Weight
+622,49,Female,21.3,1,No,S.W.,9182.17,0-10K,45-55,Normal Weight
+981,34,Male,21.375,0,No,N.E.,4500.33925,0-10K,25-35,Normal Weight
+675,45,Male,21.375,0,No,N.W.,7222.78625,0-10K,35-45,Normal Weight
+552,62,Male,21.4,0,No,S.W.,12957.118,10K-20K,55-65,Normal Weight
+731,53,Male,21.4,1,No,S.W.,10065.413,10K-20K,45-55,Normal Weight
+486,54,Female,21.47,3,No,N.W.,12475.3513,10K-20K,45-55,Normal Weight
+1054,27,Female,21.47,0,No,N.W.,3353.4703,0-10K,25-35,Normal Weight
+1212,18,Male,21.47,0,No,N.E.,1702.4553,0-10K,15-25,Normal Weight
+1148,55,Male,21.5,1,No,S.W.,10791.96,10K-20K,45-55,Normal Weight
+279,51,Female,21.56,1,No,S.E.,9855.1314,0-10K,45-55,Normal Weight
+1033,18,Male,21.565,0,Yes,N.E.,13747.87235,10K-20K,15-25,Normal Weight
+1282,18,Female,21.66,0,Yes,N.E.,14283.4594,10K-20K,15-25,Normal Weight
+1068,63,Male,21.66,1,No,N.W.,14349.8544,10K-20K,55-65,Normal Weight
+1236,63,Female,21.66,0,No,N.E.,14449.8544,10K-20K,55-65,Normal Weight
+362,19,Female,21.7,0,Yes,S.W.,13844.506,10K-20K,15-25,Normal Weight
+727,29,Female,21.755,1,Yes,N.E.,16657.71745,10K-20K,25-35,Normal Weight
+1194,31,Female,21.755,0,No,N.W.,4134.08245,0-10K,25-35,Normal Weight
+1191,41,Female,21.755,1,No,N.E.,13725.47184,10K-20K,35-45,Normal Weight
+747,19,Male,21.755,0,No,N.W.,1627.28245,0-10K,15-25,Normal Weight
+1080,18,Male,21.78,2,No,S.E.,11884.04858,10K-20K,15-25,Normal Weight
+42,41,Male,21.78,1,No,S.E.,6272.4772,0-10K,35-45,Normal Weight
+1231,20,Female,21.8,0,Yes,S.W.,20167.33603,20K-30K,15-25,Normal Weight
+829,39,Male,21.85,1,No,N.W.,6117.4945,0-10K,35-45,Normal Weight
+593,21,Female,21.85,1,Yes,N.E.,15359.1045,10K-20K,15-25,Normal Weight
+1306,29,Female,21.85,0,Yes,N.E.,16115.3045,10K-20K,25-35,Normal Weight
+874,44,Male,21.85,3,No,N.E.,8891.1395,0-10K,35-45,Normal Weight
+364,21,Female,21.89,2,No,S.E.,3180.5101,0-10K,15-25,Normal Weight
+1220,30,Female,21.945,1,No,N.E.,4718.20355,0-10K,25-35,Normal Weight
+1295,20,Male,22.0,1,No,S.W.,1964.78,0-10K,15-25,Normal Weight
+131,61,Female,22.04,0,No,N.E.,13616.3586,10K-20K,55-65,Normal Weight
+1089,56,Male,22.1,0,No,S.W.,10577.087,10K-20K,55-65,Normal Weight
+882,21,Female,22.135,0,No,N.E.,2585.85065,0-10K,15-25,Normal Weight
+241,33,Female,22.135,1,No,N.E.,5354.07465,0-10K,25-35,Normal Weight
+1155,36,Female,22.135,3,No,N.E.,7228.21565,0-10K,35-45,Normal Weight
+384,44,Male,22.135,2,No,N.E.,8302.53565,0-10K,35-45,Normal Weight
+235,40,Female,22.22,2,Yes,S.E.,19444.2658,10K-20K,35-45,Normal Weight
+1137,26,Female,22.23,0,No,N.W.,3176.2877,0-10K,25-35,Normal Weight
+371,57,Female,22.23,0,No,N.E.,12029.2867,10K-20K,55-65,Normal Weight
+802,21,Male,22.3,1,No,S.W.,2103.08,0-10K,15-25,Normal Weight
+204,46,Male,22.3,0,No,S.W.,7147.105,0-10K,45-55,Normal Weight
+64,20,Female,22.42,0,Yes,N.W.,14711.7438,10K-20K,15-25,Normal Weight
+140,34,Male,22.42,2,No,N.E.,27375.90478,20K-30K,25-35,Normal Weight
+512,51,Male,22.42,0,No,N.E.,9361.3268,0-10K,45-55,Normal Weight
+899,19,Female,22.515,0,No,N.W.,2117.33885,0-10K,15-25,Normal Weight
+1048,25,Female,22.515,1,No,N.W.,3594.17085,0-10K,15-25,Normal Weight
+788,29,Male,22.515,3,No,N.E.,5209.57885,0-10K,25-35,Normal Weight
+900,49,Male,22.515,0,No,N.E.,8688.85885,0-10K,45-55,Normal Weight
+813,28,Male,22.515,2,No,N.E.,4428.88785,0-10K,25-35,Normal Weight
+417,36,Female,22.6,2,Yes,S.W.,18608.262,10K-20K,35-45,Normal Weight
+714,24,Female,22.6,0,No,S.W.,2457.502,0-10K,15-25,Normal Weight
+716,49,Female,22.61,1,No,N.W.,9566.9909,0-10K,45-55,Normal Weight
+301,53,Female,22.61,3,Yes,N.E.,24873.3849,20K-30K,45-55,Normal Weight
+943,19,Male,22.61,0,No,N.W.,1628.4709,0-10K,15-25,Normal Weight
+388,26,Female,22.61,0,No,N.W.,3176.8159,0-10K,25-35,Normal Weight
+3,33,Male,22.705,0,No,N.W.,21984.47061,20K-30K,25-35,Normal Weight
+633,40,Male,22.705,2,No,N.E.,7173.35995,0-10K,35-45,Normal Weight
+1238,37,Male,22.705,3,No,N.E.,6985.50695,0-10K,35-45,Normal Weight
+753,58,Female,22.77,0,No,S.E.,11833.7823,10K-20K,55-65,Normal Weight
+1010,48,Female,22.8,0,No,S.W.,8269.044,0-10K,45-55,Normal Weight
+756,39,Female,22.8,3,No,N.E.,7985.815,0-10K,35-45,Normal Weight
+58,53,Female,22.88,1,Yes,S.E.,23244.7902,20K-30K,45-55,Normal Weight
+917,45,Male,22.895,0,Yes,N.E.,35069.37452,30K-40K,35-45,Normal Weight
+85,45,Male,22.895,2,Yes,N.W.,21098.55405,20K-30K,35-45,Normal Weight
+797,30,Female,22.895,1,No,N.E.,4719.52405,0-10K,25-35,Normal Weight
+975,29,Male,22.895,0,Yes,N.E.,16138.76205,10K-20K,25-35,Normal Weight
+664,64,Female,22.99,0,Yes,S.E.,27037.9141,20K-30K,55-65,Normal Weight
+295,18,Male,22.99,0,No,N.E.,1704.5681,0-10K,15-25,Normal Weight
+1000,30,Male,22.99,2,Yes,N.W.,17361.7661,10K-20K,25-35,Normal Weight
+1035,54,Female,23.0,3,No,S.W.,12094.478,10K-20K,45-55,Normal Weight
+1041,18,Male,23.085,0,No,N.E.,1704.70015,0-10K,15-25,Normal Weight
+26,63,Female,23.085,0,No,N.E.,14451.83515,10K-20K,55-65,Normal Weight
+217,27,Male,23.1,0,No,S.E.,2483.736,0-10K,25-35,Normal Weight
+1259,52,Female,23.18,0,No,N.E.,10197.7722,10K-20K,45-55,Normal Weight
+792,22,Female,23.18,0,No,N.E.,2731.9122,0-10K,15-25,Normal Weight
+350,57,Female,23.18,0,No,N.W.,11830.6072,10K-20K,55-65,Normal Weight
+1157,23,Female,23.18,2,No,N.W.,14426.07385,10K-20K,15-25,Normal Weight
+679,49,Female,23.18,2,No,N.W.,10156.7832,10K-20K,45-55,Normal Weight
+924,43,Male,23.2,0,No,S.W.,6250.435,0-10K,35-45,Normal Weight
+326,27,Female,23.21,1,No,S.E.,3561.8889,0-10K,25-35,Normal Weight
+940,18,Male,23.21,0,No,S.E.,1121.8739,0-10K,15-25,Normal Weight
+502,51,Male,23.21,1,Yes,S.E.,22218.1149,20K-30K,45-55,Normal Weight
+1292,21,Male,23.21,0,No,S.E.,1515.3449,0-10K,15-25,Normal Weight
+219,24,Female,23.21,0,No,S.E.,25081.76784,20K-30K,15-25,Normal Weight
+995,39,Female,23.275,3,No,N.E.,7986.47525,0-10K,35-45,Normal Weight
+1233,58,Male,23.3,0,No,S.W.,11345.519,10K-20K,55-65,Normal Weight
+1023,18,Male,23.32,1,No,S.E.,1711.0268,0-10K,15-25,Normal Weight
+647,40,Female,23.37,3,No,N.E.,8252.2843,0-10K,35-45,Normal Weight
+153,42,Female,23.37,0,Yes,N.E.,19964.7463,10K-20K,35-45,Normal Weight
+119,37,Female,23.37,2,No,N.W.,6686.4313,0-10K,35-45,Normal Weight
+926,19,Female,23.4,2,No,S.W.,2913.569,0-10K,15-25,Normal Weight
+452,24,Male,23.4,0,No,S.W.,1969.614,0-10K,15-25,Normal Weight
+838,35,Female,23.465,2,No,N.E.,6402.29135,0-10K,25-35,Normal Weight
+579,25,Female,23.465,0,No,N.E.,3206.49135,0-10K,15-25,Normal Weight
+711,50,Female,23.54,2,No,S.E.,10107.2206,10K-20K,45-55,Normal Weight
+971,34,Female,23.56,0,No,N.E.,4992.3764,0-10K,25-35,Normal Weight
+1185,45,Male,23.56,2,No,N.E.,8603.8234,0-10K,35-45,Normal Weight
+496,31,Female,23.6,2,No,S.W.,4931.647,0-10K,25-35,Normal Weight
+407,47,Female,23.6,1,No,S.W.,8539.671,0-10K,45-55,Normal Weight
+583,32,Female,23.65,1,No,S.E.,17626.23951,10K-20K,25-35,Normal Weight
+868,61,Male,23.655,0,No,N.E.,13129.60345,10K-20K,55-65,Normal Weight
+607,59,Female,23.655,0,Yes,N.W.,25678.77845,20K-30K,55-65,Normal Weight
+1030,46,Female,23.655,1,Yes,N.W.,21677.28345,20K-30K,45-55,Normal Weight
+1314,30,Female,23.655,3,Yes,N.W.,18765.87545,10K-20K,25-35,Normal Weight
+693,24,Male,23.655,0,No,N.W.,2352.96845,0-10K,15-25,Normal Weight
+737,26,Male,23.7,2,No,S.W.,3484.331,0-10K,25-35,Normal Weight
+1275,57,Male,23.7,0,No,S.W.,10959.33,10K-20K,55-65,Normal Weight
+507,21,Male,23.75,2,No,N.W.,3077.0955,0-10K,15-25,Normal Weight
+853,53,Female,23.75,2,No,N.E.,11729.6795,10K-20K,45-55,Normal Weight
+121,18,Male,23.75,0,No,N.E.,1705.6245,0-10K,15-25,Normal Weight
+1265,64,Male,23.76,0,Yes,S.E.,26926.5144,20K-30K,55-65,Normal Weight
+555,28,Male,23.8,2,No,S.W.,3847.674,0-10K,25-35,Normal Weight
+17,23,Male,23.845,0,No,N.E.,2395.17155,0-10K,15-25,Normal Weight
+854,49,Female,23.845,3,Yes,N.E.,24106.91255,20K-30K,45-55,Normal Weight
+832,28,Female,23.845,2,No,N.W.,4719.73655,0-10K,25-35,Normal Weight
+1130,39,Female,23.87,5,No,S.E.,8582.3023,0-10K,35-45,Normal Weight
+413,25,Male,23.9,5,No,S.W.,5080.096,0-10K,15-25,Normal Weight
+1224,41,Male,23.94,1,No,N.E.,6858.4796,0-10K,35-45,Normal Weight
+69,28,Male,23.98,3,Yes,S.E.,17663.1442,10K-20K,25-35,Normal Weight
+661,57,Female,23.98,1,No,S.E.,22192.43711,20K-30K,55-65,Normal Weight
+498,44,Female,23.98,2,No,S.E.,8211.1002,0-10K,35-45,Normal Weight
+740,45,Male,24.035,2,No,N.E.,8604.48365,0-10K,35-45,Normal Weight
+892,54,Male,24.035,0,No,N.E.,10422.91665,10K-20K,45-55,Normal Weight
+202,60,Female,24.035,0,No,N.W.,13012.20865,10K-20K,55-65,Normal Weight
+469,18,Female,24.09,1,No,S.E.,2201.0971,0-10K,15-25,Normal Weight
+848,27,Female,24.1,0,No,S.W.,2974.126,0-10K,25-35,Normal Weight
+688,47,Female,24.1,1,No,S.W.,26236.57997,20K-30K,45-55,Normal Weight
+857,25,Male,24.13,0,Yes,N.W.,15817.9857,10K-20K,15-25,Normal Weight
+1176,52,Female,24.13,1,Yes,N.W.,23887.6627,20K-30K,45-55,Normal Weight
+451,30,Male,24.13,1,No,N.W.,4032.2407,0-10K,25-35,Normal Weight
+150,35,Male,24.13,1,No,N.W.,5125.2157,0-10K,25-35,Normal Weight
+816,24,Female,24.225,0,No,N.W.,2842.76075,0-10K,15-25,Normal Weight
+1328,23,Female,24.225,2,No,N.E.,22395.74424,20K-30K,15-25,Normal Weight
+937,39,Female,24.225,5,No,N.W.,8965.79575,0-10K,35-45,Normal Weight
+869,25,Female,24.3,3,No,S.W.,4391.652,0-10K,15-25,Normal Weight
+1245,28,Male,24.3,5,No,S.W.,5615.369,0-10K,25-35,Normal Weight
+277,22,Female,24.3,0,No,S.W.,2150.469,0-10K,15-25,Normal Weight
+406,33,Female,24.31,0,No,S.E.,4185.0979,0-10K,25-35,Normal Weight
+425,45,Male,24.31,5,No,S.E.,9788.8659,0-10K,35-45,Normal Weight
+683,53,Male,24.32,0,No,N.W.,9863.4718,0-10K,45-55,Normal Weight
+1285,47,Female,24.32,0,No,N.E.,8534.6718,0-10K,45-55,Normal Weight
+824,60,Male,24.32,0,No,N.W.,12523.6048,10K-20K,55-65,Normal Weight
+468,28,Female,24.32,1,No,N.E.,23288.9284,20K-30K,25-35,Normal Weight
+717,60,Male,24.32,1,No,N.W.,13112.6048,10K-20K,55-65,Normal Weight
+1200,37,Male,24.32,2,No,N.W.,6198.7518,0-10K,35-45,Normal Weight
+262,52,Male,24.32,3,Yes,N.E.,24869.8368,20K-30K,45-55,Normal Weight
+780,30,Male,24.4,3,Yes,S.W.,18259.216,10K-20K,25-35,Normal Weight
+258,51,Male,24.415,4,No,N.W.,11520.09985,10K-20K,45-55,Normal Weight
+730,35,Male,24.42,3,Yes,S.E.,19361.9988,10K-20K,25-35,Normal Weight
+156,48,Male,24.42,0,Yes,S.E.,21223.6758,20K-30K,45-55,Normal Weight
+1223,20,Female,24.42,0,Yes,S.E.,26125.67477,20K-30K,15-25,Normal Weight
+1114,23,Male,24.51,0,No,N.E.,2396.0959,0-10K,15-25,Normal Weight
+636,19,Female,24.51,1,No,N.W.,2709.1119,0-10K,15-25,Normal Weight
+234,39,Male,24.51,2,No,N.W.,6710.1919,0-10K,35-45,Normal Weight
+48,60,Female,24.53,0,No,S.E.,12629.8967,10K-20K,55-65,Normal Weight
+1167,29,Female,24.6,2,No,S.W.,4529.477,0-10K,25-35,Normal Weight
+909,32,Female,24.6,0,Yes,S.W.,17496.306,10K-20K,25-35,Normal Weight
+15,19,Male,24.6,1,No,S.W.,1837.237,0-10K,15-25,Normal Weight
+1304,42,Male,24.605,2,Yes,N.E.,21259.37795,20K-30K,35-45,Normal Weight
+914,33,Male,24.605,2,No,N.W.,5257.50795,0-10K,25-35,Normal Weight
+1016,19,Female,24.605,1,No,N.W.,2709.24395,0-10K,15-25,Normal Weight
+1232,54,Female,24.605,3,No,N.W.,12479.70895,10K-20K,45-55,Normal Weight
+224,42,Male,24.64,0,Yes,S.E.,19515.5416,10K-20K,35-45,Normal Weight
+62,64,Male,24.7,1,No,N.W.,30166.61817,30K-40K,55-65,Normal Weight
+1045,43,Female,24.7,2,Yes,N.W.,21880.82,20K-30K,35-45,Normal Weight
+311,19,Female,24.7,0,No,S.W.,1737.376,0-10K,15-25,Normal Weight
+841,59,Male,24.7,0,No,N.E.,12323.936,10K-20K,55-65,Normal Weight
+70,27,Female,24.75,0,Yes,S.E.,16577.7795,10K-20K,25-35,Normal Weight
+963,46,Male,24.795,3,No,N.E.,9500.57305,0-10K,45-55,Normal Weight
+91,53,Female,24.795,1,No,N.W.,10942.13205,10K-20K,45-55,Normal Weight
+799,33,Male,24.795,0,Yes,N.E.,17904.52705,10K-20K,25-35,Normal Weight
+966,51,Male,24.795,2,Yes,N.W.,23967.38305,20K-30K,45-55,Normal Weight
+1142,52,Female,24.86,0,No,S.E.,27117.99378,20K-30K,45-55,Normal Weight
+872,42,Male,24.86,0,No,S.E.,5966.8874,0-10K,35-45,Normal Weight
+376,39,Female,24.89,3,Yes,N.E.,21659.9301,20K-30K,35-45,Normal Weight
+1221,40,Male,24.97,2,No,S.E.,6593.5083,0-10K,35-45,Normal Weight
+367,42,Female,24.985,2,No,N.W.,8017.06115,0-10K,35-45,Normal Weight
+1008,25,Male,24.985,2,No,N.E.,23241.47453,20K-30K,15-25,Normal Weight
+1136,44,Female,25.0,1,No,S.W.,7623.518,0-10K,35-45,Normal Weight
+920,62,Female,25.0,0,No,S.W.,13451.122,10K-20K,55-65,Normal Weight
+1125,63,Female,25.08,0,No,N.W.,14254.6082,10K-20K,55-65,Overweight
+492,18,Female,25.08,0,No,N.E.,2196.4732,0-10K,15-25,Overweight
+491,61,Female,25.08,0,No,S.E.,24513.09126,20K-30K,55-65,Overweight
+1216,40,Male,25.08,0,No,S.E.,5415.6612,0-10K,35-45,Overweight
+1046,43,Female,25.08,0,No,N.E.,7325.0482,0-10K,35-45,Overweight
+474,54,Male,25.1,3,Yes,S.W.,25382.297,20K-30K,45-55,Overweight
+157,18,Male,25.175,0,Yes,N.E.,15518.18025,10K-20K,15-25,Overweight
+764,45,Female,25.175,2,No,N.E.,9095.06825,0-10K,35-45,Overweight
+606,27,Female,25.175,0,No,N.E.,3558.62025,0-10K,25-35,Overweight
+464,19,Male,25.175,0,No,N.W.,1632.03625,0-10K,15-25,Overweight
+1294,58,Male,25.175,0,No,N.E.,11931.12525,10K-20K,55-65,Overweight
+137,22,Male,25.175,0,No,N.W.,2045.68525,0-10K,15-25,Overweight
+260,58,Female,25.2,0,No,S.W.,11837.16,10K-20K,55-65,Overweight
+1188,43,Female,25.27,1,Yes,N.E.,21771.3423,20K-30K,35-45,Overweight
+508,24,Female,25.27,0,No,N.E.,3044.2133,0-10K,15-25,Overweight
+320,34,Male,25.27,1,No,N.W.,4894.7533,0-10K,25-35,Overweight
+1065,42,Female,25.3,1,No,S.W.,7045.499,0-10K,35-45,Overweight
+1222,50,Male,25.3,0,No,S.E.,8442.667,0-10K,45-55,Overweight
+142,34,Male,25.3,2,Yes,S.E.,18972.495,10K-20K,25-35,Overweight
+655,52,Female,25.3,2,Yes,S.E.,24667.419,20K-30K,45-55,Overweight
+602,56,Female,25.3,0,No,S.W.,11070.535,10K-20K,55-65,Overweight
+967,44,Male,25.365,1,No,N.W.,7518.02535,0-10K,35-45,Overweight
+255,55,Female,25.365,3,No,N.E.,13047.33235,10K-20K,45-55,Overweight
+387,50,Male,25.365,2,No,N.W.,30284.64294,30K-40K,45-55,Overweight
+864,51,Male,25.4,0,No,S.W.,8782.469,0-10K,45-55,Overweight
+297,47,Male,25.41,1,Yes,S.E.,21978.6769,20K-30K,45-55,Overweight
+580,59,Male,25.46,1,No,N.E.,12913.9924,10K-20K,55-65,Overweight
+529,18,Male,25.46,0,No,N.E.,1708.0014,0-10K,15-25,Overweight
+980,54,Male,25.46,1,No,N.E.,25517.11363,20K-30K,45-55,Overweight
+229,47,Male,25.46,2,No,N.E.,9225.2564,0-10K,45-55,Overweight
+101,30,Male,25.46,0,No,N.E.,3645.0894,0-10K,25-35,Overweight
+154,40,Female,25.46,1,No,N.E.,7077.1894,0-10K,35-45,Overweight
+1015,59,Male,25.46,0,No,N.W.,12124.9924,10K-20K,55-65,Overweight
+1272,43,Male,25.52,5,No,S.E.,14478.33015,10K-20K,35-45,Overweight
+897,19,Male,25.555,1,No,N.W.,2221.56445,0-10K,15-25,Overweight
+133,19,Male,25.555,0,No,N.W.,1632.56445,0-10K,15-25,Overweight
+1208,37,Female,25.555,1,Yes,N.E.,20296.86345,20K-30K,35-45,Overweight
+398,64,Male,25.6,2,No,S.W.,14988.432,10K-20K,55-65,Overweight
+617,49,Male,25.6,2,Yes,S.W.,23306.547,20K-30K,45-55,Overweight
+1064,29,Female,25.6,4,No,S.W.,5708.867,0-10K,25-35,Overweight
+351,50,Female,25.6,0,No,S.W.,8932.084,0-10K,45-55,Overweight
+447,56,Female,25.65,0,No,N.W.,11454.0215,10K-20K,55-65,Overweight
+1246,45,Female,25.7,3,No,S.W.,9101.798,0-10K,35-45,Overweight
+494,21,Male,25.7,4,Yes,S.W.,17942.106,10K-20K,15-25,Overweight
+336,60,Male,25.74,0,No,S.E.,12142.5786,10K-20K,55-65,Overweight
+1330,57,Female,25.74,2,No,S.E.,12629.1656,10K-20K,55-65,Overweight
+192,25,Male,25.74,0,No,S.E.,2137.6536,0-10K,15-25,Overweight
+5,31,Female,25.74,0,No,S.E.,3756.6216,0-10K,25-35,Overweight
+1293,46,Male,25.745,3,No,N.W.,9301.89355,0-10K,45-55,Overweight
+1299,19,Female,25.745,1,No,N.W.,2710.82855,0-10K,15-25,Overweight
+968,21,Male,25.745,2,No,N.E.,3279.86855,0-10K,15-25,Overweight
+985,44,Female,25.8,1,No,S.W.,7624.63,0-10K,35-45,Overweight
+1336,21,Female,25.8,0,No,S.W.,2007.945,0-10K,15-25,Overweight
+932,46,Male,25.8,5,No,S.W.,10096.97,10K-20K,45-55,Overweight
+1199,31,Female,25.8,2,No,S.W.,4934.705,0-10K,25-35,Overweight
+1043,28,Female,25.8,0,No,S.W.,3161.454,0-10K,25-35,Overweight
+527,51,Female,25.8,1,No,S.W.,9861.025,0-10K,45-55,Overweight
+1002,24,Male,25.8,0,No,S.W.,1972.95,0-10K,15-25,Overweight
+269,49,Male,25.84,1,No,N.E.,9282.4806,0-10K,45-55,Overweight
+809,25,Male,25.84,1,No,N.E.,3309.7926,0-10K,15-25,Overweight
+831,36,Female,25.84,0,No,N.W.,5266.3656,0-10K,35-45,Overweight
+9,60,Female,25.84,0,No,N.W.,28923.13692,20K-30K,55-65,Overweight
+545,49,Male,25.84,2,Yes,N.W.,23807.2406,20K-30K,45-55,Overweight
+1112,48,Female,25.85,3,Yes,S.E.,24180.9335,20K-30K,45-55,Overweight
+982,31,Male,25.9,3,Yes,S.W.,19199.944,10K-20K,25-35,Overweight
+1287,36,Female,25.9,1,No,S.W.,5472.449,0-10K,35-45,Overweight
+961,29,Female,25.9,0,No,S.W.,3353.284,0-10K,25-35,Overweight
+463,56,Male,25.935,0,No,N.E.,11165.41765,10K-20K,55-65,Overweight
+63,28,Female,25.935,1,No,N.W.,4133.64165,0-10K,25-35,Overweight
+1324,31,Male,25.935,1,No,N.W.,4239.89265,0-10K,25-35,Overweight
+1026,19,Male,26.03,1,Yes,N.W.,16450.8947,10K-20K,15-25,Overweight
+763,27,Male,26.03,0,No,N.E.,3070.8087,0-10K,25-35,Overweight
+625,29,Female,26.03,0,No,N.W.,3736.4647,0-10K,25-35,Overweight
+1077,21,Male,26.03,0,No,N.E.,2102.2647,0-10K,15-25,Overweight
+501,43,Male,26.03,0,No,N.E.,6837.3687,0-10K,35-45,Overweight
+524,42,Male,26.07,1,Yes,S.E.,38245.59327,30K-40K,35-45,Overweight
+686,42,Male,26.125,2,No,N.E.,7729.64575,0-10K,35-45,Overweight
+818,47,Female,26.125,1,Yes,N.E.,23401.30575,20K-30K,45-55,Overweight
+1296,18,Male,26.125,0,No,N.E.,1708.92575,0-10K,15-25,Overweight
+1165,35,Female,26.125,0,No,N.E.,5227.98875,0-10K,25-35,Overweight
+938,18,Male,26.18,2,No,S.E.,2304.0022,0-10K,15-25,Overweight
+800,42,Female,26.18,1,No,S.E.,7046.7222,0-10K,35-45,Overweight
+191,36,Female,26.2,0,No,S.W.,4883.866,0-10K,35-45,Overweight
+287,63,Female,26.22,0,No,N.W.,14256.1928,10K-20K,55-65,Overweight
+646,39,Male,26.22,1,No,N.W.,6123.5688,0-10K,35-45,Overweight
+10,25,Male,26.22,0,No,N.E.,2721.3208,0-10K,15-25,Overweight
+1107,50,Female,26.22,2,No,N.W.,10493.9458,10K-20K,45-55,Overweight
+11,62,Female,26.29,0,Yes,S.E.,27808.7251,20K-30K,55-65,Overweight
+31,18,Female,26.315,0,No,N.E.,2198.18985,0-10K,15-25,Overweight
+1113,28,Female,26.315,3,No,N.W.,5312.16985,0-10K,25-35,Overweight
+67,40,Male,26.315,1,No,N.W.,6389.37785,0-10K,35-45,Overweight
+1319,39,Female,26.315,2,No,N.W.,7201.70085,0-10K,35-45,Overweight
+1310,42,Male,26.315,1,No,N.W.,6940.90985,0-10K,35-45,Overweight
+363,21,Female,26.4,1,No,S.W.,2597.779,0-10K,15-25,Overweight
+289,52,Male,26.4,3,No,S.E.,25992.82104,20K-30K,45-55,Overweight
+750,37,Female,26.4,0,Yes,S.E.,19539.243,10K-20K,35-45,Overweight
+206,59,Male,26.4,0,No,S.E.,11743.299,10K-20K,55-65,Overweight
+638,39,Male,26.41,0,Yes,N.E.,20149.3229,20K-30K,35-45,Overweight
+703,34,Female,26.41,1,No,N.W.,5385.3379,0-10K,25-35,Overweight
+183,44,Female,26.41,0,No,N.W.,7419.4779,0-10K,35-45,Overweight
+1051,64,Male,26.41,0,No,N.E.,14394.5579,10K-20K,55-65,Overweight
+685,53,Male,26.41,2,No,N.E.,11244.3769,10K-20K,45-55,Overweight
+744,50,Male,26.41,0,No,N.W.,8827.2099,0-10K,45-55,Overweight
+130,59,Female,26.505,0,No,N.E.,12815.44495,10K-20K,55-65,Overweight
+804,23,Male,26.51,0,No,S.E.,1815.8759,0-10K,15-25,Overweight
+1297,28,Female,26.51,2,No,S.E.,4340.4409,0-10K,25-35,Overweight
+160,42,Female,26.6,0,Yes,N.W.,21348.706,20K-30K,35-45,Overweight
+310,50,Male,26.6,0,No,S.W.,8444.474,0-10K,45-55,Overweight
+275,47,Female,26.6,2,No,N.E.,9715.841,0-10K,45-55,Overweight
+40,24,Female,26.6,0,No,N.E.,3046.062,0-10K,15-25,Overweight
+193,56,Female,26.6,1,No,N.W.,12044.342,10K-20K,55-65,Overweight
+216,53,Female,26.6,0,No,N.W.,10355.641,10K-20K,45-55,Overweight
+743,31,Female,26.62,0,No,S.E.,3757.8448,0-10K,25-35,Overweight
+285,46,Male,26.62,1,No,S.E.,7742.1098,0-10K,45-55,Overweight
+1311,33,Female,26.695,0,No,N.W.,4571.41305,0-10K,25-35,Overweight
+444,56,Male,26.695,1,Yes,N.W.,26109.32905,20K-30K,55-65,Overweight
+884,25,Male,26.695,4,No,N.W.,4877.98105,0-10K,15-25,Overweight
+912,59,Female,26.695,3,No,N.W.,14382.70905,10K-20K,55-65,Overweight
+1321,62,Male,26.695,0,Yes,N.E.,28101.33305,20K-30K,55-65,Overweight
+1171,43,Female,26.7,2,Yes,S.W.,22478.6,20K-30K,35-45,Overweight
+771,53,Female,26.7,2,No,S.W.,11150.78,10K-20K,45-55,Overweight
+213,34,Female,26.73,1,No,S.E.,5002.7827,0-10K,25-35,Overweight
+236,18,Female,26.73,0,No,S.E.,1615.7667,0-10K,15-25,Overweight
+1279,25,Female,26.79,2,No,N.W.,4189.1131,0-10K,15-25,Overweight
+957,24,Male,26.79,1,No,N.W.,12609.88702,10K-20K,15-25,Overweight
+242,55,Female,26.8,1,No,S.W.,35160.13457,30K-40K,45-55,Overweight
+294,25,Male,26.8,3,No,S.W.,3906.127,0-10K,15-25,Overweight
+576,22,Male,26.84,0,No,S.E.,1664.9996,0-10K,15-25,Overweight
+261,20,Female,26.84,1,Yes,S.E.,17085.2676,10K-20K,15-25,Overweight
+890,64,Female,26.885,0,Yes,N.W.,29330.98315,20K-30K,55-65,Overweight
+999,36,Female,26.885,0,No,N.W.,5267.81815,0-10K,35-45,Overweight
+916,43,Female,26.885,0,Yes,N.W.,21774.32215,20K-30K,35-45,Overweight
+80,31,Male,26.885,1,No,N.E.,4441.21315,0-10K,25-35,Overweight
+432,42,Male,26.9,0,No,S.W.,5969.723,0-10K,35-45,Overweight
+608,28,Male,26.98,2,No,N.E.,4435.0942,0-10K,25-35,Overweight
+89,55,Female,26.98,0,No,N.W.,11082.5772,10K-20K,45-55,Overweight
+419,63,Female,26.98,0,Yes,N.W.,28950.4692,20K-30K,55-65,Overweight
+746,34,Male,27.0,2,No,S.W.,11737.84884,10K-20K,25-35,Overweight
+1274,26,Male,27.06,0,Yes,S.E.,17043.3414,10K-20K,25-35,Overweight
+724,50,Female,27.075,1,No,N.E.,10106.13425,10K-20K,45-55,Overweight
+762,33,Male,27.1,1,Yes,S.W.,19040.876,10K-20K,25-35,Overweight
+876,49,Female,27.1,1,No,S.W.,26140.3603,20K-30K,45-55,Overweight
+965,35,Male,27.1,1,No,S.W.,4746.344,0-10K,25-35,Overweight
+1175,22,Female,27.1,0,No,S.W.,2154.361,0-10K,15-25,Overweight
+575,58,Female,27.17,0,No,N.W.,12222.8983,10K-20K,55-65,Overweight
+118,49,Female,27.17,0,No,S.E.,8601.3293,0-10K,45-55,Overweight
+324,29,Male,27.2,0,No,S.W.,2866.091,0-10K,25-35,Overweight
+87,56,Female,27.2,0,No,S.W.,11073.176,10K-20K,55-65,Overweight
+426,38,Female,27.265,1,No,N.E.,6555.07035,0-10K,35-45,Overweight
+733,48,Female,27.265,1,No,N.E.,9447.25035,0-10K,45-55,Overweight
+902,26,Male,27.265,3,No,N.E.,4661.28635,0-10K,25-35,Overweight
+1039,19,Male,27.265,2,No,N.W.,22493.65964,20K-30K,15-25,Overweight
+1204,18,Female,27.28,3,Yes,S.E.,18223.4512,10K-20K,15-25,Overweight
+1252,20,Male,27.3,0,Yes,S.W.,16232.847,10K-20K,15-25,Overweight
+881,23,Male,27.36,1,No,N.W.,2789.0574,0-10K,15-25,Overweight
+331,52,Male,27.36,0,Yes,N.W.,24393.6224,20K-30K,45-55,Overweight
+690,21,Male,27.36,0,No,N.E.,2104.1134,0-10K,15-25,Overweight
+1170,18,Male,27.36,1,Yes,N.E.,17178.6824,10K-20K,15-25,Overweight
+60,43,Male,27.36,3,No,N.E.,8606.2174,0-10K,35-45,Overweight
+1183,48,Female,27.36,1,No,N.E.,9447.3824,0-10K,45-55,Overweight
+520,50,Female,27.36,0,No,N.E.,25656.57526,20K-30K,45-55,Overweight
+1177,40,Female,27.4,1,No,S.W.,6496.886,0-10K,35-45,Overweight
+74,44,Male,27.4,2,No,S.W.,7726.854,0-10K,35-45,Overweight
+273,50,Male,27.455,1,No,N.E.,9617.66245,0-10K,45-55,Overweight
+1298,33,Male,27.455,2,No,N.W.,5261.46945,0-10K,25-35,Overweight
+306,28,Female,27.5,2,No,S.W.,20177.67113,20K-30K,25-35,Overweight
+935,59,Female,27.5,0,No,S.W.,12233.828,10K-20K,55-65,Overweight
+233,59,Male,27.5,1,No,S.W.,12333.828,10K-20K,55-65,Overweight
+913,44,Female,27.5,1,No,S.W.,7626.993,0-10K,35-45,Overweight
+104,34,Female,27.5,1,No,S.W.,5003.853,0-10K,25-35,Overweight
+1269,45,Male,27.5,3,No,S.W.,8615.3,0-10K,35-45,Overweight
+342,60,Female,27.55,0,No,N.E.,13217.0945,10K-20K,55-65,Overweight
+337,62,Male,27.55,1,No,N.W.,13937.6665,10K-20K,55-65,Overweight
+300,36,Male,27.55,3,No,N.E.,6746.7425,0-10K,35-45,Overweight
+274,25,Male,27.55,0,No,N.W.,2523.1695,0-10K,15-25,Overweight
+783,50,Female,27.6,1,Yes,S.W.,24520.264,20K-30K,45-55,Overweight
+791,19,Male,27.6,0,No,S.W.,1252.407,0-10K,15-25,Overweight
+340,24,Female,27.6,0,No,S.W.,18955.22017,10K-20K,15-25,Overweight
+1014,38,Female,27.6,0,No,S.W.,5383.536,0-10K,35-45,Overweight
+355,46,Male,27.6,0,No,S.W.,24603.04837,20K-30K,45-55,Overweight
+1273,35,Male,27.61,1,No,S.E.,4747.0529,0-10K,25-35,Overweight
+1257,54,Female,27.645,1,No,N.W.,11305.93455,10K-20K,45-55,Overweight
+282,30,Male,27.645,1,No,N.E.,4237.12655,0-10K,25-35,Overweight
+755,31,Male,27.645,2,No,N.E.,5031.26955,0-10K,25-35,Overweight
+987,45,Female,27.645,1,No,N.W.,28340.18885,20K-30K,35-45,Overweight
+318,44,Female,27.645,0,No,N.W.,7421.19455,0-10K,35-45,Overweight
+1055,55,Male,27.645,0,No,N.W.,10594.50155,10K-20K,45-55,Overweight
+1281,47,Female,27.645,2,Yes,N.W.,24535.69855,20K-30K,45-55,Overweight
+352,30,Female,27.7,0,No,S.W.,3554.203,0-10K,25-35,Overweight
+785,35,Female,27.7,3,No,S.W.,6414.178,0-10K,25-35,Overweight
+296,19,Male,27.7,0,Yes,S.W.,16297.846,10K-20K,15-25,Overweight
+1254,34,Female,27.72,0,No,S.E.,4415.1588,0-10K,25-35,Overweight
+339,46,Female,27.72,1,No,S.E.,8232.6388,0-10K,45-55,Overweight
+25,59,Female,27.72,3,No,S.E.,14001.1338,10K-20K,55-65,Overweight
+1305,24,Female,27.72,0,No,S.E.,2464.6188,0-10K,15-25,Overweight
+1009,51,Male,27.74,1,No,N.E.,9957.7216,0-10K,45-55,Overweight
+207,35,Male,27.74,2,Yes,N.E.,20984.0936,20K-30K,25-35,Overweight
+88,46,Female,27.74,0,No,N.W.,8026.6666,0-10K,45-55,Overweight
+7,37,Female,27.74,3,No,N.W.,7281.5056,0-10K,35-45,Overweight
+244,63,Female,27.74,0,Yes,N.E.,29523.1656,20K-30K,55-65,Overweight
+709,36,Female,27.74,0,No,N.E.,5469.0066,0-10K,35-45,Overweight
+1303,43,Male,27.8,0,Yes,S.W.,37829.7242,30K-40K,35-45,Overweight
+1234,45,Female,27.83,2,No,S.E.,8515.7587,0-10K,35-45,Overweight
+231,59,Female,27.83,3,No,S.E.,14001.2867,10K-20K,55-65,Overweight
+159,50,Female,27.83,3,No,S.E.,19749.38338,10K-20K,45-55,Overweight
+757,47,Female,27.83,0,Yes,S.E.,23065.4207,20K-30K,45-55,Overweight
+991,38,Female,27.835,2,No,N.E.,7144.86265,0-10K,35-45,Overweight
+349,19,Male,27.835,0,No,N.W.,1635.73365,0-10K,15-25,Overweight
+954,34,Male,27.835,1,Yes,N.W.,20009.63365,20K-30K,25-35,Overweight
+1081,32,Male,27.835,1,No,N.W.,4454.40265,0-10K,25-35,Overweight
+176,38,Male,27.835,2,No,N.W.,6455.86265,0-10K,35-45,Overweight
+0,19,Female,27.9,0,Yes,S.W.,16884.924,10K-20K,15-25,Overweight
+1032,30,Female,27.93,0,No,N.E.,4137.5227,0-10K,25-35,Overweight
+1195,19,Female,27.93,3,No,N.W.,18838.70366,10K-20K,15-25,Overweight
+1154,48,Female,27.93,4,No,N.W.,11015.1747,10K-20K,45-55,Overweight
+495,20,Male,27.93,0,No,N.E.,1967.0227,0-10K,15-25,Overweight
+108,29,Male,27.94,0,No,S.E.,2867.1196,0-10K,25-35,Overweight
+117,29,Female,27.94,1,Yes,S.E.,19107.7796,10K-20K,25-35,Overweight
+1061,57,Male,27.94,1,No,S.E.,11554.2236,10K-20K,55-65,Overweight
+1189,23,Female,28.0,0,No,S.W.,13126.67745,10K-20K,15-25,Overweight
+861,38,Female,28.0,3,No,S.W.,7151.092,0-10K,35-45,Overweight
+52,48,Male,28.0,1,Yes,S.W.,23568.272,20K-30K,45-55,Overweight
+827,36,Male,28.025,1,Yes,N.E.,20773.62775,20K-30K,35-45,Overweight
+1040,35,Female,28.025,0,Yes,N.W.,20234.85475,20K-30K,25-35,Overweight
+24,37,Male,28.025,2,No,N.W.,6203.90175,0-10K,35-45,Overweight
+105,20,Male,28.025,1,Yes,N.W.,17560.37975,10K-20K,15-25,Overweight
+535,38,Male,28.025,1,No,N.E.,6067.12675,0-10K,35-45,Overweight
+538,46,Female,28.05,1,No,S.E.,8233.0975,0-10K,45-55,Overweight
+135,22,Female,28.05,0,No,S.E.,2155.6815,0-10K,15-25,Overweight
+1262,41,Female,28.05,1,No,S.E.,6770.1925,0-10K,35-45,Overweight
+72,53,Female,28.1,3,No,S.W.,11741.726,10K-20K,45-55,Overweight
+859,57,Male,28.1,0,No,S.W.,10965.446,10K-20K,55-65,Overweight
+1135,50,Female,28.12,3,No,N.W.,11085.5868,10K-20K,45-55,Overweight
+280,40,Female,28.12,1,Yes,N.E.,22331.5668,20K-30K,35-45,Overweight
+1307,32,Male,28.12,4,Yes,N.W.,21472.4788,20K-30K,25-35,Overweight
+875,23,Female,28.12,0,No,N.W.,2690.1138,0-10K,15-25,Overweight
+970,50,Female,28.16,3,No,S.E.,10702.6424,10K-20K,45-55,Overweight
+918,61,Female,28.2,0,No,S.W.,13041.921,10K-20K,55-65,Overweight
+1163,18,Female,28.215,0,No,N.E.,2200.83085,0-10K,15-25,Overweight
+1007,47,Male,28.215,3,Yes,N.W.,24915.22085,20K-30K,45-55,Overweight
+165,47,Male,28.215,4,No,N.E.,10407.08585,10K-20K,45-55,Overweight
+1237,58,Female,28.215,0,No,N.W.,12224.35085,10K-20K,55-65,Overweight
+993,38,Male,28.27,1,No,S.E.,5484.4673,0-10K,35-45,Overweight
+585,33,Female,28.27,1,No,S.E.,4779.6023,0-10K,25-35,Overweight
+514,39,Male,28.3,1,Yes,S.W.,21082.16,20K-30K,35-45,Overweight
+126,19,Female,28.3,0,Yes,S.W.,17081.08,10K-20K,15-25,Overweight
+1164,41,Female,28.31,1,No,N.W.,7153.5539,0-10K,35-45,Overweight
+910,22,Male,28.31,1,No,N.W.,2639.0429,0-10K,15-25,Overweight
+375,23,Female,28.31,0,Yes,N.W.,18033.9679,10K-20K,15-25,Overweight
+1315,18,Male,28.31,1,No,N.E.,11272.33139,10K-20K,15-25,Overweight
+475,61,Male,28.31,1,Yes,N.W.,28868.6639,20K-30K,55-65,Overweight
+33,63,Male,28.31,0,No,N.W.,13770.0979,10K-20K,55-65,Overweight
+604,19,Female,28.31,0,Yes,N.W.,17468.9839,10K-20K,15-25,Overweight
+641,42,Male,28.31,3,Yes,N.W.,32787.45859,30K-40K,35-45,Overweight
+837,56,Female,28.31,0,No,N.E.,11657.7189,10K-20K,55-65,Overweight
+465,30,Female,28.38,1,Yes,S.E.,19521.9682,10K-20K,25-35,Overweight
+106,19,Female,28.4,1,No,S.W.,2331.519,0-10K,15-25,Overweight
+149,19,Male,28.4,1,No,S.W.,1842.519,0-10K,15-25,Overweight
+952,30,Female,28.405,1,No,N.W.,4527.18295,0-10K,25-35,Overweight
+726,41,Male,28.405,1,No,N.W.,6664.68595,0-10K,35-45,Overweight
+1184,23,Female,28.49,1,Yes,S.E.,18328.2381,10K-20K,15-25,Overweight
+212,24,Male,28.5,2,No,N.W.,3537.703,0-10K,15-25,Overweight
+648,18,Male,28.5,0,No,N.E.,1712.227,0-10K,15-25,Overweight
+71,31,Male,28.5,5,No,N.E.,6799.458,0-10K,25-35,Overweight
+476,24,Male,28.5,0,Yes,N.E.,35147.52848,30K-40K,15-25,Overweight
+795,27,Male,28.5,0,Yes,N.W.,18310.742,10K-20K,25-35,Overweight
+434,31,Male,28.595,1,No,N.W.,4243.59005,0-10K,25-35,Overweight
+180,58,Male,28.595,0,No,N.W.,11735.87905,10K-20K,55-65,Overweight
+548,25,Female,28.595,0,No,N.E.,3213.62205,0-10K,15-25,Overweight
+115,60,Male,28.595,0,No,N.E.,30259.99556,30K-40K,55-65,Overweight
+616,56,Female,28.595,0,No,N.E.,11658.11505,10K-20K,55-65,Overweight
+1063,36,Male,28.595,3,No,N.W.,6548.19505,0-10K,35-45,Overweight
+1101,53,Male,28.6,3,No,S.W.,11253.421,10K-20K,45-55,Overweight
+197,45,Female,28.6,2,No,S.E.,8516.829,0-10K,35-45,Overweight
+32,19,Female,28.6,5,No,S.W.,4687.797,0-10K,15-25,Overweight
+54,40,Female,28.69,3,No,N.W.,8059.6791,0-10K,35-45,Overweight
+144,30,Male,28.69,3,Yes,N.W.,20745.9891,20K-30K,25-35,Overweight
+707,49,Male,28.69,3,No,N.W.,10264.4421,10K-20K,45-55,Overweight
+497,45,Male,28.7,2,No,S.W.,8027.968,0-10K,35-45,Overweight
+666,49,Male,28.7,1,No,S.W.,8703.456,0-10K,45-55,Overweight
+487,19,Male,28.7,0,No,S.W.,1253.936,0-10K,15-25,Overweight
+509,57,Female,28.7,0,No,S.W.,11455.28,10K-20K,55-65,Overweight
+466,60,Female,28.7,1,No,S.W.,13224.693,10K-20K,55-65,Overweight
+134,20,Female,28.785,0,No,N.E.,2457.21115,0-10K,15-25,Overweight
+125,26,Female,28.785,0,No,N.E.,3385.39915,0-10K,25-35,Overweight
+624,59,Male,28.785,0,No,N.W.,12129.61415,10K-20K,55-65,Overweight
+659,57,Female,28.785,4,No,N.E.,14394.39815,10K-20K,55-65,Overweight
+333,56,Female,28.785,0,No,N.E.,11658.37915,10K-20K,55-65,Overweight
+878,41,Male,28.8,1,No,S.W.,6282.235,0-10K,35-45,Overweight
+293,22,Female,28.82,0,No,S.E.,2156.7518,0-10K,15-25,Overweight
+773,19,Female,28.88,0,Yes,N.W.,17748.5062,10K-20K,15-25,Overweight
+1038,22,Male,28.88,0,No,N.E.,2250.8352,0-10K,15-25,Overweight
+1073,54,Female,28.88,2,No,N.E.,12096.6512,10K-20K,45-55,Overweight
+626,36,Male,28.88,3,No,N.E.,6748.5912,0-10K,35-45,Overweight
+205,28,Female,28.88,1,No,N.E.,4337.7352,0-10K,25-35,Overweight
+779,53,Male,28.88,0,No,N.W.,9869.8102,0-10K,45-55,Overweight
+4,32,Male,28.88,0,No,N.W.,3866.8552,0-10K,25-35,Overweight
+299,48,Female,28.88,1,No,N.W.,9249.4952,0-10K,45-55,Overweight
+437,35,Male,28.9,3,No,S.W.,5926.846,0-10K,25-35,Overweight
+1056,48,Female,28.9,0,No,S.W.,8277.523,0-10K,45-55,Overweight
+715,60,Male,28.9,0,No,S.W.,12146.971,10K-20K,55-65,Overweight
+178,46,Female,28.9,2,No,S.W.,8823.279,0-10K,45-55,Overweight
+65,19,Female,28.9,0,No,S.W.,1743.214,0-10K,15-25,Overweight
+504,38,Female,28.93,1,No,S.E.,5974.3847,0-10K,35-45,Overweight
+551,32,Female,28.93,0,No,S.E.,3972.9247,0-10K,25-35,Overweight
+885,32,Male,28.93,1,Yes,S.E.,19719.6947,10K-20K,25-35,Overweight
+122,20,Female,28.975,0,No,N.W.,2257.47525,0-10K,15-25,Overweight
+249,29,Male,28.975,1,No,N.E.,4040.55825,0-10K,25-35,Overweight
+1086,55,Male,28.975,0,No,N.E.,10796.35025,10K-20K,45-55,Overweight
+886,57,Male,28.975,0,Yes,N.E.,27218.43725,20K-30K,55-65,Overweight
+751,21,Male,28.975,0,No,N.W.,1906.35825,0-10K,15-25,Overweight
+590,58,Female,29.0,0,No,S.W.,11842.442,10K-20K,55-65,Overweight
+767,42,Female,29.0,1,No,S.W.,7050.642,0-10K,35-45,Overweight
+891,36,Female,29.04,4,No,S.E.,7243.8136,0-10K,35-45,Overweight
+238,19,Male,29.07,0,Yes,N.W.,17352.6803,10K-20K,15-25,Overweight
+1337,61,Female,29.07,0,Yes,N.W.,29141.3603,20K-30K,55-65,Overweight
+570,31,Female,29.1,0,No,S.W.,3761.292,0-10K,25-35,Overweight
+977,26,Male,29.15,1,No,S.E.,2902.9065,0-10K,25-35,Overweight
+741,27,Male,29.15,0,Yes,S.E.,18246.4955,10K-20K,25-35,Overweight
+427,18,Female,29.165,0,No,N.E.,7323.734819,0-10K,15-25,Overweight
+177,54,Male,29.2,1,No,S.W.,10436.096,10K-20K,45-55,Overweight
+345,34,Female,29.26,3,No,S.E.,6184.2994,0-10K,25-35,Overweight
+1006,28,Male,29.26,2,No,N.E.,4438.2634,0-10K,25-35,Overweight
+1173,38,Male,29.26,2,No,N.W.,6457.8434,0-10K,35-45,Overweight
+784,31,Female,29.26,1,No,S.E.,4350.5144,0-10K,25-35,Overweight
+631,24,Male,29.3,0,No,S.W.,1977.815,0-10K,15-25,Overweight
+1253,40,Female,29.3,4,No,S.W.,15828.82173,10K-20K,35-45,Overweight
+905,26,Female,29.355,2,No,N.E.,4564.19145,0-10K,25-35,Overweight
+1198,40,Male,29.355,1,No,N.W.,6393.60345,0-10K,35-45,Overweight
+270,18,Male,29.37,1,No,S.E.,1719.4363,0-10K,15-25,Overweight
+610,47,Female,29.37,1,No,S.E.,8547.6913,0-10K,45-55,Overweight
+1247,33,Male,29.4,4,No,S.W.,6059.173,0-10K,25-35,Overweight
+439,26,Male,29.45,0,No,N.E.,2897.3235,0-10K,25-35,Overweight
+596,42,Female,29.48,2,No,S.E.,7640.3092,0-10K,35-45,Overweight
+871,26,Female,29.48,1,No,S.E.,3392.3652,0-10K,25-35,Overweight
+939,53,Male,29.48,0,No,S.E.,9487.6442,0-10K,45-55,Overweight
+879,37,Female,29.5,2,No,S.W.,6311.952,0-10K,35-45,Overweight
+704,47,Female,29.545,1,No,N.W.,8930.93455,0-10K,45-55,Overweight
+76,29,Female,29.59,1,No,S.E.,3947.4131,0-10K,25-35,Overweight
+1075,32,Female,29.59,1,No,S.E.,4562.8421,0-10K,25-35,Overweight
+448,40,Female,29.6,0,No,S.W.,5910.944,0-10K,35-45,Overweight
+855,20,Female,29.6,0,No,S.W.,1875.344,0-10K,15-25,Overweight
+1003,48,Male,29.6,0,No,S.W.,21232.18226,20K-30K,45-55,Overweight
+450,39,Male,29.6,4,No,S.W.,7512.267,0-10K,35-45,Overweight
+291,29,Male,29.64,1,No,N.E.,20277.80751,20K-30K,25-35,Overweight
+446,60,Male,29.64,0,No,N.E.,12730.9996,10K-20K,55-65,Overweight
+164,37,Male,29.64,0,No,N.W.,5028.1466,0-10K,35-45,Overweight
+1116,41,Male,29.64,5,No,N.E.,9222.4026,0-10K,35-45,Overweight
+321,26,Female,29.64,4,No,N.E.,24671.66334,20K-30K,25-35,Overweight
+111,55,Female,29.7,2,No,S.W.,11881.358,10K-20K,45-55,Overweight
+532,59,Male,29.7,2,No,S.E.,12925.886,10K-20K,55-65,Overweight
+151,48,Male,29.7,0,No,S.E.,7789.635,0-10K,45-55,Overweight
+949,25,Male,29.7,3,Yes,S.W.,19933.458,10K-20K,15-25,Overweight
+672,36,Male,29.7,0,No,S.E.,4399.731,0-10K,35-45,Overweight
+453,20,Male,29.735,0,No,N.W.,1769.53165,0-10K,15-25,Overweight
+936,44,Male,29.735,2,No,N.E.,32108.66282,30K-40K,35-45,Overweight
+143,29,Male,29.735,2,No,N.W.,18157.876,10K-20K,25-35,Overweight
+1277,32,Female,29.735,0,No,N.W.,4357.04365,0-10K,25-35,Overweight
+1053,47,Male,29.8,3,Yes,S.W.,25309.489,20K-30K,45-55,Overweight
+163,32,Female,29.8,2,No,S.W.,5152.134,0-10K,25-35,Overweight
+472,19,Female,29.8,0,No,S.W.,1744.465,0-10K,15-25,Overweight
+1104,37,Male,29.8,0,No,S.W.,20420.60465,20K-30K,35-45,Overweight
+823,44,Female,29.81,2,No,S.E.,8219.2039,0-10K,35-45,Overweight
+843,57,Female,29.81,0,Yes,S.E.,27533.9129,20K-30K,55-65,Overweight
+669,40,Female,29.81,1,No,S.E.,6500.2359,0-10K,35-45,Overweight
+1179,31,Male,29.81,0,Yes,S.E.,19350.3689,10K-20K,25-35,Overweight
+8,37,Male,29.83,2,No,N.E.,6406.4107,0-10K,35-45,Overweight
+1250,24,Male,29.83,0,Yes,N.E.,18648.4217,10K-20K,15-25,Overweight
+357,47,Male,29.83,3,No,N.W.,9620.3307,0-10K,45-55,Overweight
+92,59,Male,29.83,3,Yes,N.E.,30184.9367,30K-40K,55-65,Overweight
+1052,49,Male,29.83,1,No,N.E.,9288.0267,0-10K,45-55,Overweight
+1091,55,Female,29.83,0,No,N.E.,11286.5387,10K-20K,45-55,Overweight
+865,40,Male,29.9,2,No,S.W.,6600.361,0-10K,35-45,Overweight
+1263,43,Female,29.9,1,No,S.W.,7337.748,0-10K,35-45,Overweight
+1126,55,Male,29.9,0,No,S.W.,10214.636,10K-20K,45-55,Overweight
+186,26,Female,29.92,2,No,S.E.,3981.9768,0-10K,25-35,Overweight
+218,26,Female,29.92,1,No,S.E.,3392.9768,0-10K,25-35,Overweight
+979,36,Female,29.92,0,No,S.E.,4889.0368,0-10K,35-45,Overweight
+348,36,Female,29.92,1,No,S.E.,5478.0368,0-10K,35-45,Overweight
+103,61,Female,29.92,3,Yes,S.E.,30942.1918,30K-40K,55-65,Overweight
+789,62,Female,29.92,0,No,S.E.,13457.9608,10K-20K,55-65,Overweight
+1181,24,Female,29.925,0,No,N.W.,2850.68375,0-10K,15-25,Overweight
+1278,39,Male,29.925,1,Yes,N.E.,22462.04375,20K-30K,35-45,Overweight
+1106,49,Female,29.925,0,No,N.W.,8988.15875,0-10K,45-55,Overweight
+1108,26,Male,30.0,1,No,S.W.,2904.088,0-10K,25-35,Overweight
+461,42,Male,30.0,0,Yes,S.W.,22144.032,20K-30K,35-45,Overweight
+245,54,Male,30.02,0,No,N.W.,24476.47851,20K-30K,45-55,Obese
+887,36,Female,30.02,0,No,N.W.,5272.1758,0-10K,35-45,Obese
+1196,19,Female,30.02,0,Yes,N.W.,33307.5508,30K-40K,15-25,Obese
+341,62,Male,30.02,0,No,N.W.,13352.0998,10K-20K,55-65,Obese
+1327,51,Male,30.03,1,No,S.E.,9377.9047,0-10K,45-55,Obese
+409,32,Male,30.03,1,No,S.E.,4074.4537,0-10K,25-35,Obese
+1283,18,Male,30.03,1,No,S.E.,1720.3537,0-10K,15-25,Obese
+732,24,Female,30.1,3,No,S.W.,4234.927,0-10K,15-25,Obese
+873,43,Male,30.1,1,No,S.W.,6849.026,0-10K,35-45,Obese
+102,18,Female,30.115,0,No,N.E.,21344.8467,20K-30K,15-25,Obese
+984,20,Male,30.115,5,No,N.E.,4915.05985,0-10K,15-25,Obese
+986,43,Male,30.115,3,No,N.W.,8410.04685,0-10K,35-45,Obese
+745,50,Female,30.115,1,No,N.W.,9910.35985,0-10K,45-55,Obese
+471,18,Female,30.115,0,No,N.E.,2203.47185,0-10K,15-25,Obese
+378,64,Female,30.115,3,No,N.W.,16455.70785,10K-20K,55-65,Obese
+808,18,Male,30.14,0,No,S.E.,1131.5066,0-10K,15-25,Obese
+456,55,Female,30.14,2,No,S.E.,11881.9696,10K-20K,45-55,Obese
+268,45,Male,30.2,1,No,S.W.,7441.053,0-10K,35-45,Obese
+424,48,Male,30.2,2,No,S.W.,8968.33,0-10K,45-55,Obese
+953,44,Male,30.2,2,Yes,S.W.,38998.546,30K-40K,35-45,Obese
+578,52,Male,30.2,1,No,S.W.,9724.53,0-10K,45-55,Obese
+537,46,Female,30.2,2,No,S.W.,8825.086,0-10K,45-55,Obese
+1308,25,Female,30.2,0,Yes,S.W.,33900.653,30K-40K,15-25,Obese
+587,34,Female,30.21,1,Yes,N.W.,43943.8761,40K-50K,25-35,Obese
+389,24,Female,30.21,3,No,N.W.,4618.0799,0-10K,15-25,Obese
+544,54,Male,30.21,0,No,N.W.,10231.4999,10K-20K,45-55,Obese
+1219,38,Female,30.21,3,No,N.W.,7537.1639,0-10K,35-45,Obese
+503,19,Male,30.25,0,Yes,S.E.,32548.3405,30K-40K,15-25,Obese
+1138,33,Male,30.25,0,No,S.E.,3704.3545,0-10K,25-35,Obese
+1182,25,Female,30.3,0,No,S.W.,2632.992,0-10K,15-25,Obese
+171,49,Male,30.3,0,No,S.W.,8116.68,0-10K,45-55,Obese
+253,27,Male,30.3,3,No,S.W.,4260.744,0-10K,25-35,Obese
+1150,18,Female,30.305,0,No,N.E.,2203.73595,0-10K,15-25,Obese
+1229,58,Male,30.305,0,No,N.E.,11938.25595,10K-20K,55-65,Obese
+1300,45,Male,30.36,0,Yes,S.E.,62592.87309,60K-70K,35-45,Obese
+513,19,Male,30.4,0,No,S.W.,1256.299,0-10K,15-25,Obese
+369,18,Male,30.4,3,No,N.E.,3481.868,0-10K,15-25,Obese
+1276,22,Female,30.4,0,No,N.E.,2741.948,0-10K,15-25,Obese
+429,27,Female,30.4,3,No,N.W.,18804.7524,10K-20K,25-35,Obese
+1093,22,Female,30.4,0,Yes,N.W.,33907.548,30K-40K,15-25,Obese
+565,19,Female,30.495,0,No,N.W.,2128.43105,0-10K,15-25,Obese
+457,57,Female,30.495,0,No,N.W.,11840.77505,10K-20K,55-65,Obese
+708,31,Female,30.495,3,No,N.E.,6113.23105,0-10K,25-35,Obese
+146,46,Male,30.495,3,Yes,N.W.,40720.55105,40K-50K,45-55,Obese
+1037,45,Female,30.495,1,Yes,N.W.,39725.51805,30K-40K,35-45,Obese
+517,45,Male,30.495,2,No,N.W.,8413.46305,0-10K,35-45,Obese
+1084,62,Female,30.495,2,No,N.W.,15019.76005,10K-20K,55-65,Obese
+844,53,Male,30.495,0,No,N.E.,10072.05505,10K-20K,45-55,Obese
+1266,55,Female,30.5,0,No,S.W.,10704.47,10K-20K,45-55,Obese
+562,27,Male,30.5,0,No,S.W.,2494.022,0-10K,25-35,Obese
+433,60,Female,30.5,0,No,S.W.,12638.195,10K-20K,55-65,Obese
+361,35,Male,30.5,1,No,S.W.,4751.07,0-10K,25-35,Obese
+567,41,Male,30.59,2,No,N.W.,7256.7231,0-10K,35-45,Obese
+423,25,Male,30.59,0,No,N.E.,2727.3951,0-10K,15-25,Obese
+581,19,Male,30.59,0,No,N.W.,1639.5631,0-10K,15-25,Obese
+195,19,Male,30.59,0,No,N.W.,1639.5631,0-10K,15-25,Obese
+526,19,Female,30.59,2,No,N.W.,24059.68019,20K-30K,15-25,Obese
+983,27,Female,30.59,1,No,N.E.,16796.41194,10K-20K,25-35,Obese
+1158,20,Female,30.59,0,No,N.E.,2459.7201,0-10K,15-25,Obese
+1042,20,Male,30.685,0,Yes,N.E.,33475.81715,30K-40K,15-25,Obese
+381,55,Male,30.685,0,Yes,N.E.,42303.69215,40K-50K,45-55,Obese
+712,43,Female,30.685,2,No,N.W.,8310.83915,0-10K,35-45,Obese
+589,38,Female,30.69,1,No,S.E.,5976.8311,0-10K,35-45,Obese
+184,44,Male,30.69,2,No,S.E.,7731.4271,0-10K,35-45,Obese
+365,49,Female,30.78,1,No,N.E.,9778.3472,0-10K,45-55,Obese
+828,41,Male,30.78,3,Yes,N.E.,39597.4072,30K-40K,35-45,Obese
+16,52,Female,30.78,1,No,N.E.,10797.3362,10K-20K,45-55,Obese
+645,48,Male,30.78,3,No,N.E.,10141.1362,10K-20K,45-55,Obese
+850,37,Female,30.78,0,Yes,N.E.,37270.1512,30K-40K,35-45,Obese
+112,37,Male,30.8,0,No,S.W.,4646.759,0-10K,35-45,Obese
+956,54,Male,30.8,1,Yes,S.E.,41999.52,40K-50K,45-55,Obese
+322,34,Male,30.8,0,Yes,S.W.,35491.64,30K-40K,25-35,Obese
+96,54,Female,30.8,3,No,S.W.,12105.32,10K-20K,45-55,Obese
+550,63,Male,30.8,0,No,S.W.,13390.559,10K-20K,55-65,Obese
+43,37,Female,30.8,2,No,S.E.,6313.759,0-10K,35-45,Obese
+222,32,Male,30.8,3,No,S.W.,5253.524,0-10K,25-35,Obese
+810,46,Female,30.8,3,No,S.W.,9414.92,0-10K,45-55,Obese
+211,40,Male,30.875,4,No,N.W.,8162.71625,0-10K,35-45,Obese
+505,37,Male,30.875,3,No,N.W.,6796.86325,0-10K,35-45,Obese
+1301,62,Male,30.875,3,Yes,N.W.,46718.16325,40K-50K,55-65,Obese
+1098,52,Female,30.875,0,No,N.E.,23045.56616,20K-30K,45-55,Obese
+1210,36,Male,30.875,1,No,N.W.,5373.36425,0-10K,35-45,Obese
+107,26,Male,30.875,2,No,N.W.,3877.30425,0-10K,25-35,Obese
+749,28,Male,30.875,0,No,N.W.,3062.50825,0-10K,25-35,Obese
+519,31,Male,30.875,0,No,N.E.,3857.75925,0-10K,25-35,Obese
+1049,49,Male,30.9,0,Yes,S.W.,39727.614,30K-40K,45-55,Obese
+187,30,Female,30.9,3,No,S.W.,5325.651,0-10K,25-35,Obese
+214,45,Female,30.9,2,No,S.W.,8520.026,0-10K,35-45,Obese
+1333,50,Male,30.97,3,No,N.W.,10600.5483,10K-20K,45-55,Obese
+922,38,Male,31.0,1,No,S.W.,5488.262,0-10K,35-45,Obese
+518,35,Female,31.0,1,No,S.W.,5240.765,0-10K,25-35,Obese
+1021,22,Female,31.02,3,Yes,S.E.,35595.5898,30K-40K,15-25,Obese
+673,41,Female,31.02,0,No,S.E.,6185.3208,0-10K,35-45,Obese
+397,21,Male,31.02,0,No,S.E.,16586.49771,10K-20K,15-25,Obese
+1235,26,Male,31.065,0,No,N.W.,2699.56835,0-10K,25-35,Obese
+485,31,Female,31.065,0,No,N.E.,4347.02335,0-10K,25-35,Obese
+1320,31,Male,31.065,3,No,N.W.,5425.02335,0-10K,25-35,Obese
+1267,24,Male,31.065,0,Yes,N.E.,34254.05335,30K-40K,15-25,Obese
+840,21,Male,31.1,0,No,S.W.,1526.312,0-10K,15-25,Obese
+652,48,Female,31.13,0,No,S.E.,8280.6227,0-10K,45-55,Obese
+592,20,Male,31.13,2,No,S.E.,2566.4707,0-10K,15-25,Obese
+689,27,Male,31.13,1,Yes,S.E.,34806.4677,30K-40K,25-35,Obese
+822,18,Female,31.13,0,No,S.E.,1621.8827,0-10K,15-25,Obese
+86,57,Female,31.16,0,Yes,N.W.,43578.9394,40K-50K,55-65,Obese
+671,29,Female,31.16,0,No,N.E.,3943.5954,0-10K,25-35,Obese
+332,61,Female,31.16,0,No,N.W.,13429.0354,10K-20K,55-65,Obese
+489,53,Male,31.16,1,No,N.W.,10461.9794,10K-20K,45-55,Obese
+284,52,Female,31.2,0,No,S.W.,9625.92,0-10K,45-55,Obese
+1105,54,Female,31.24,0,No,S.E.,10338.9316,10K-20K,45-55,Obese
+1214,27,Female,31.255,1,No,N.W.,3956.07145,0-10K,25-35,Obese
+948,42,Male,31.255,0,No,N.W.,6358.77645,0-10K,35-45,Obese
+1072,21,Male,31.255,0,No,N.W.,1909.52745,0-10K,15-25,Obese
+94,64,Female,31.3,2,Yes,S.W.,47291.055,40K-50K,55-65,Obese
+1095,18,Female,31.35,4,No,N.E.,4561.1885,0-10K,15-25,Obese
+393,49,Male,31.35,1,No,N.E.,9290.1395,0-10K,45-55,Obese
+482,18,Female,31.35,0,No,S.E.,1622.1885,0-10K,15-25,Obese
+506,22,Male,31.35,1,No,N.W.,2643.2685,0-10K,15-25,Obese
+839,59,Female,31.35,0,No,N.W.,12622.1795,10K-20K,55-65,Obese
+123,44,Male,31.35,1,Yes,N.E.,39556.4945,30K-40K,35-45,Obese
+539,53,Male,31.35,0,No,S.E.,27346.04207,20K-30K,45-55,Obese
+677,60,Male,31.35,3,Yes,N.W.,46130.5265,40K-50K,55-65,Obese
+1120,23,Female,31.4,0,Yes,S.W.,34166.273,30K-40K,15-25,Obese
+314,27,Female,31.4,0,Yes,S.W.,34838.873,30K-40K,25-35,Obese
+620,30,Male,31.4,1,No,S.W.,3659.346,0-10K,25-35,Obese
+392,48,Male,31.445,1,No,N.E.,8964.06055,0-10K,45-55,Obese
+1071,63,Male,31.445,0,No,N.E.,13974.45555,10K-20K,55-65,Obese
+815,20,Female,31.46,0,No,S.E.,1877.9294,0-10K,15-25,Obese
+379,62,Male,31.46,1,No,S.E.,27000.98473,20K-30K,55-65,Obese
+1083,32,Male,31.5,1,No,S.W.,4076.497,0-10K,25-35,Obese
+836,36,Male,31.5,0,No,S.W.,4402.233,0-10K,35-45,Obese
+662,32,Female,31.54,1,No,N.E.,5148.5526,0-10K,25-35,Obese
+1087,57,Male,31.54,0,No,N.W.,11353.2276,10K-20K,55-65,Obese
+670,30,Male,31.57,3,No,S.E.,4837.5823,0-10K,25-35,Obese
+190,61,Male,31.57,0,No,S.E.,12557.6053,10K-20K,55-65,Obese
+100,41,Female,31.6,0,No,S.W.,6186.127,0-10K,35-45,Obese
+1028,54,Male,31.6,0,No,S.W.,9850.432,0-10K,45-55,Obese
+992,50,Female,31.6,2,No,S.W.,10118.424,10K-20K,45-55,Obese
+228,41,Female,31.635,1,No,N.E.,7358.17565,0-10K,35-45,Obese
+601,51,Male,31.635,0,No,N.W.,9174.13565,0-10K,45-55,Obese
+1078,28,Male,31.68,0,Yes,S.E.,34672.1472,30K-40K,25-35,Obese
+57,18,Male,31.68,2,Yes,S.E.,34303.1672,30K-40K,15-25,Obese
+911,18,Male,31.73,0,Yes,N.E.,33732.6867,30K-40K,15-25,Obese
+436,22,Male,31.73,0,No,N.E.,2254.7967,0-10K,15-25,Obese
+531,62,Female,31.73,0,No,N.E.,14043.4767,10K-20K,55-65,Obese
+1005,29,Male,31.73,2,No,N.W.,4433.3877,0-10K,25-35,Obese
+738,23,Male,31.73,3,Yes,N.E.,36189.1017,30K-40K,15-25,Obese
+553,52,Female,31.73,2,No,N.W.,11187.6567,10K-20K,45-55,Obese
+278,59,Male,31.79,2,No,S.E.,12928.7911,10K-20K,55-65,Obese
+541,20,Female,31.79,2,No,S.E.,3056.3881,0-10K,15-25,Obese
+1057,45,Female,31.79,0,No,S.E.,17929.30337,10K-20K,35-45,Obese
+826,56,Male,31.79,2,Yes,S.E.,43813.8661,40K-50K,55-65,Obese
+208,63,Female,31.8,0,No,S.W.,13880.949,10K-20K,55-65,Obese
+765,57,Female,31.825,0,No,N.W.,11842.62375,10K-20K,55-65,Obese
+168,19,Female,31.825,1,No,N.W.,2719.27975,0-10K,15-25,Obese
+254,50,Male,31.825,0,Yes,N.E.,41097.16175,40K-50K,45-55,Obese
+825,64,Female,31.825,2,No,N.E.,16069.08475,10K-20K,55-65,Obese
+56,58,Female,31.825,2,No,N.E.,13607.36875,10K-20K,55-65,Obese
+568,49,Female,31.9,5,No,S.W.,11552.904,10K-20K,45-55,Obese
+1069,54,Female,31.9,1,No,S.E.,10928.849,10K-20K,45-55,Obese
+138,54,Female,31.9,3,No,S.E.,27322.73386,20K-30K,45-55,Obese
+259,19,Male,31.92,0,Yes,N.W.,33750.2918,30K-40K,15-25,Obese
+794,39,Female,31.92,2,No,N.W.,7209.4918,0-10K,35-45,Obese
+1334,18,Female,31.92,0,No,N.E.,2205.9808,0-10K,15-25,Obese
+23,34,Female,31.92,1,Yes,N.E.,37701.8768,30K-40K,25-35,Obese
+1147,20,Female,31.92,0,No,N.W.,2261.5688,0-10K,15-25,Obese
+1076,47,Female,32.0,1,No,S.W.,8551.347,0-10K,45-55,Obese
+1060,24,Male,32.01,0,No,S.E.,1981.5819,0-10K,15-25,Obese
+73,58,Male,32.01,1,No,S.E.,11946.6259,10K-20K,55-65,Obese
+668,62,Male,32.015,0,Yes,N.E.,45710.20785,40K-50K,55-65,Obese
+368,44,Male,32.015,2,No,N.W.,8116.26885,0-10K,35-45,Obese
+734,59,Female,32.1,3,No,S.W.,14007.222,10K-20K,55-65,Obese
+1174,29,Male,32.11,2,No,N.W.,4433.9159,0-10K,25-35,Obese
+200,19,Female,32.11,0,No,N.W.,2130.6759,0-10K,15-25,Obese
+1202,22,Male,32.11,0,No,N.W.,2055.3249,0-10K,15-25,Obese
+925,50,Male,32.11,2,No,N.E.,25333.33284,20K-30K,45-55,Obese
+189,29,Female,32.11,2,No,N.W.,4922.9159,0-10K,25-35,Obese
+510,56,Male,32.11,1,No,N.E.,11763.0009,10K-20K,55-65,Obese
+894,62,Male,32.11,0,No,N.E.,13555.0049,10K-20K,55-65,Obese
+564,18,Female,32.12,2,No,S.E.,2801.2588,0-10K,15-25,Obese
+188,41,Female,32.2,1,No,S.W.,6775.961,0-10K,35-45,Obese
+1309,41,Male,32.2,2,No,S.W.,6875.961,0-10K,35-45,Obese
+251,63,Female,32.2,2,Yes,S.W.,47305.305,40K-50K,55-65,Obese
+114,52,Male,32.205,3,No,N.E.,11488.31695,10K-20K,45-55,Obese
+316,50,Male,32.205,0,No,N.W.,8835.26495,0-10K,45-55,Obese
+201,48,Female,32.23,1,No,S.E.,8871.1517,0-10K,45-55,Obese
+858,25,Female,32.23,1,No,S.E.,18218.16139,10K-20K,15-25,Obese
+1110,54,Female,32.3,1,No,N.E.,11512.405,10K-20K,45-55,Obese
+776,40,Male,32.3,2,No,N.W.,6986.697,0-10K,35-45,Obese
+851,61,Male,32.3,2,No,N.W.,14119.62,10K-20K,55-65,Obese
+394,46,Female,32.3,2,No,N.E.,9411.005,0-10K,45-55,Obese
+696,53,Female,32.3,2,No,N.E.,29186.48236,20K-30K,45-55,Obese
+1203,51,Male,32.3,1,No,N.E.,9964.06,0-10K,45-55,Obese
+1144,50,Male,32.3,2,No,S.W.,9630.397,0-10K,45-55,Obese
+1013,48,Male,32.3,1,No,N.W.,8765.249,0-10K,45-55,Obese
+766,47,Male,32.3,1,No,S.W.,8062.764,0-10K,45-55,Obese
+338,50,Male,32.3,1,Yes,N.E.,41919.097,40K-50K,45-55,Obese
+360,48,Female,32.3,2,No,N.E.,10043.249,10K-20K,45-55,Obese
+366,56,Female,32.3,3,No,N.E.,13430.265,10K-20K,55-65,Obese
+403,49,Male,32.3,3,No,N.W.,10269.46,10K-20K,45-55,Obese
+907,44,Female,32.34,1,No,S.E.,7633.7206,0-10K,35-45,Obese
+1143,39,Male,32.34,2,No,S.E.,6338.0756,0-10K,35-45,Obese
+267,59,Female,32.395,3,No,N.E.,14590.63205,10K-20K,55-65,Obese
+1192,58,Female,32.395,1,No,N.E.,13019.16105,10K-20K,55-65,Obese
+283,55,Female,32.395,1,No,N.E.,11879.10405,10K-20K,45-55,Obese
+692,20,Male,32.395,1,No,N.W.,2362.22905,0-10K,15-25,Obese
+1123,27,Female,32.395,1,No,N.E.,18903.49141,10K-20K,25-35,Obese
+21,30,Female,32.4,1,No,S.W.,4149.736,0-10K,25-35,Obese
+845,60,Female,32.45,0,Yes,S.E.,45008.9555,40K-50K,55-65,Obese
+141,26,Male,32.49,1,No,N.E.,3490.5491,0-10K,25-35,Obese
+1139,19,Female,32.49,0,Yes,N.W.,36898.73308,30K-40K,15-25,Obese
+931,39,Female,32.5,1,No,S.W.,6238.298,0-10K,35-45,Obese
+479,23,Male,32.56,0,No,S.E.,1824.2854,0-10K,15-25,Obese
+1152,43,Female,32.56,3,Yes,S.E.,40941.2854,40K-50K,35-45,Obese
+906,27,Male,32.585,3,No,N.E.,4846.92015,0-10K,25-35,Obese
+1141,41,Female,32.6,3,No,S.W.,7954.517,0-10K,35-45,Obese
+598,43,Male,32.6,2,No,S.W.,7441.501,0-10K,35-45,Obese
+1115,55,Male,32.67,1,No,S.E.,10807.4863,10K-20K,45-55,Obese
+470,27,Male,32.67,0,No,S.E.,2497.0383,0-10K,25-35,Obese
+440,31,Female,32.68,1,No,N.W.,4738.2682,0-10K,25-35,Obese
+1019,21,Female,32.68,2,No,N.W.,26018.95052,20K-30K,15-25,Obese
+1187,62,Female,32.68,0,No,N.W.,13844.7972,10K-20K,55-65,Obese
+561,54,Female,32.68,0,No,N.E.,10923.9332,10K-20K,45-55,Obese
+1001,24,Male,32.7,0,Yes,S.W.,34472.841,30K-40K,15-25,Obese
+1092,23,Male,32.7,3,No,S.W.,3591.48,0-10K,15-25,Obese
+1145,52,Male,32.775,3,No,N.W.,11289.10925,10K-20K,45-55,Obese
+27,55,Female,32.775,2,No,N.W.,12268.63225,10K-20K,45-55,Obese
+317,54,Male,32.775,0,No,N.E.,10435.06525,10K-20K,45-55,Obese
+849,55,Male,32.775,0,No,N.W.,10601.63225,10K-20K,45-55,Obese
+667,40,Female,32.775,2,Yes,N.W.,40003.33225,40K-50K,35-45,Obese
+422,40,Male,32.775,1,Yes,N.E.,39125.33225,30K-40K,35-45,Obese
+1190,31,Female,32.775,2,No,N.W.,5327.40025,0-10K,25-35,Obese
+842,23,Female,32.78,2,Yes,S.E.,36021.0112,30K-40K,15-25,Obese
+1128,34,Male,32.8,1,No,S.W.,14358.36437,10K-20K,25-35,Obese
+196,39,Female,32.8,0,No,S.W.,5649.715,0-10K,35-45,Obese
+1146,60,Male,32.8,0,Yes,S.W.,52590.82939,50K-60K,55-65,Obese
+1326,42,Female,32.87,0,No,N.E.,7050.0213,0-10K,35-45,Obese
+373,26,Male,32.9,2,Yes,S.W.,36085.219,30K-40K,25-35,Obese
+490,19,Female,32.9,0,No,S.W.,1748.774,0-10K,15-25,Obese
+705,33,Female,32.9,2,No,S.W.,5375.038,0-10K,25-35,Obese
+36,62,Female,32.965,3,No,N.W.,15612.19335,10K-20K,55-65,Obese
+79,41,Female,32.965,0,No,N.W.,6571.02435,0-10K,35-45,Obese
+649,58,Female,32.965,0,No,N.E.,12430.95335,10K-20K,55-65,Obese
+402,64,Female,32.965,0,No,N.W.,14692.66935,10K-20K,55-65,Obese
+614,20,Female,33.0,0,No,S.E.,1880.07,0-10K,15-25,Obese
+210,20,Male,33.0,1,No,S.W.,1980.07,0-10K,15-25,Obese
+459,40,Female,33.0,3,No,S.E.,7682.67,0-10K,35-45,Obese
+303,28,Female,33.0,2,No,S.E.,4349.462,0-10K,25-35,Obese
+382,55,Male,33.0,0,No,S.E.,20781.48892,20K-30K,45-55,Obese
+2,28,Male,33.0,3,No,S.E.,4449.462,0-10K,25-35,Obese
+309,41,Female,33.06,2,No,N.W.,7749.1564,0-10K,35-45,Obese
+830,63,Male,33.1,0,No,S.W.,13393.756,10K-20K,55-65,Obese
+445,45,Female,33.1,0,No,S.W.,7345.084,0-10K,35-45,Obese
+430,19,Male,33.1,0,No,S.W.,23082.95533,20K-30K,15-25,Obese
+798,58,Female,33.1,0,No,S.W.,11848.141,10K-20K,55-65,Obese
+1243,28,Female,33.11,0,No,S.E.,3171.6149,0-10K,25-35,Obese
+856,48,Female,33.11,0,Yes,S.E.,40974.1649,40K-50K,45-55,Obese
+435,60,Male,33.11,3,No,S.E.,13919.8229,10K-20K,55-65,Obese
+618,19,Female,33.11,0,Yes,S.E.,34439.8559,30K-40K,15-25,Obese
+179,41,Female,33.155,3,No,N.E.,8538.28845,0-10K,35-45,Obese
+167,32,Female,33.155,3,No,N.W.,6128.79745,0-10K,25-35,Obese
+612,18,Female,33.155,0,No,N.E.,2207.69745,0-10K,15-25,Obese
+657,27,Male,33.155,2,No,N.W.,4058.71245,0-10K,25-35,Obese
+372,42,Female,33.155,1,No,N.E.,7639.41745,0-10K,35-45,Obese
+921,62,Female,33.2,0,No,S.W.,13462.52,10K-20K,55-65,Obese
+221,53,Female,33.25,0,No,N.E.,10564.8845,10K-20K,45-55,Obese
+597,34,Female,33.25,1,No,N.E.,5594.8455,0-10K,25-35,Obese
+315,52,Male,33.25,0,No,N.E.,9722.7695,0-10K,45-55,Obese
+1213,52,Female,33.3,2,No,S.W.,10806.839,10K-20K,45-55,Obese
+1268,20,Female,33.3,0,No,S.W.,1880.487,0-10K,15-25,Obese
+307,30,Female,33.33,1,No,S.E.,4151.0287,0-10K,25-35,Obese
+1012,61,Female,33.33,4,No,S.E.,36580.28216,30K-40K,55-65,Obese
+1117,25,Male,33.33,2,Yes,S.E.,36124.5737,30K-40K,15-25,Obese
+1280,48,Female,33.33,0,No,S.E.,8283.6807,0-10K,45-55,Obese
+775,51,Male,33.33,3,No,S.E.,10560.4917,10K-20K,45-55,Obese
+1244,18,Male,33.33,0,No,S.E.,1135.9407,0-10K,15-25,Obese
+374,20,Male,33.33,0,No,S.E.,1391.5287,0-10K,15-25,Obese
+174,24,Female,33.345,0,No,N.W.,2855.43755,0-10K,15-25,Obese
+473,47,Female,33.345,0,No,N.E.,20878.78443,20K-30K,45-55,Obese
+347,46,Male,33.345,1,No,N.E.,8334.45755,0-10K,45-55,Obese
+305,29,Male,33.345,2,No,N.W.,19442.3535,10K-20K,25-35,Obese
+1264,49,Female,33.345,2,No,N.E.,10370.91255,10K-20K,45-55,Obese
+290,28,Female,33.4,0,No,S.W.,3172.018,0-10K,25-35,Obese
+1207,36,Male,33.4,2,Yes,S.W.,38415.474,30K-40K,35-45,Obese
+1331,23,Female,33.4,0,No,S.W.,10795.93733,10K-20K,15-25,Obese
+877,33,Male,33.44,5,No,S.E.,6653.7886,0-10K,25-35,Obese
+719,58,Female,33.44,0,No,N.W.,12231.6136,10K-20K,55-65,Obese
+556,46,Male,33.44,1,No,N.E.,8334.5896,0-10K,45-55,Obese
+6,46,Female,33.44,1,No,S.E.,8240.5896,0-10K,45-55,Obese
+441,33,Female,33.5,0,Yes,S.W.,37079.372,30K-40K,25-35,Obese
+623,18,Male,33.535,0,Yes,N.E.,34617.84065,30K-40K,15-25,Obese
+1325,61,Male,33.535,0,No,N.E.,13143.33665,10K-20K,55-65,Obese
+862,55,Female,33.535,2,No,N.W.,12269.68865,10K-20K,45-55,Obese
+1197,41,Male,33.55,0,No,S.E.,5699.8375,0-10K,35-45,Obese
+51,21,Female,33.63,2,No,N.W.,3579.8287,0-10K,15-25,Obese
+256,56,Male,33.63,0,Yes,N.W.,43921.1837,40K-50K,55-65,Obese
+110,54,Male,33.63,1,No,N.W.,10825.2537,10K-20K,45-55,Obese
+754,24,Male,33.63,4,No,N.E.,17128.42608,10K-20K,15-25,Obese
+889,57,Male,33.63,1,No,N.W.,11945.1327,10K-20K,55-65,Obese
+1249,32,Male,33.63,1,Yes,N.E.,37607.5277,30K-40K,25-35,Obese
+639,56,Male,33.66,4,No,S.E.,12949.1554,10K-20K,55-65,Obese
+1079,63,Male,33.66,3,No,S.E.,15161.5344,10K-20K,55-65,Obese
+61,25,Male,33.66,4,No,S.E.,4504.6624,0-10K,15-25,Obese
+663,18,Male,33.66,0,No,S.E.,1136.3994,0-10K,15-25,Obese
+511,27,Male,33.66,0,No,S.E.,2498.4144,0-10K,25-35,Obese
+1094,50,Female,33.7,4,No,S.W.,11299.343,10K-20K,45-55,Obese
+220,34,Female,33.7,1,No,S.W.,5012.471,0-10K,25-35,Obese
+820,45,Male,33.7,1,No,S.W.,7445.918,0-10K,35-45,Obese
+595,46,Female,33.725,1,No,N.E.,8823.98575,0-10K,45-55,Obese
+698,56,Male,33.725,0,No,N.W.,10976.24575,10K-20K,55-65,Obese
+1097,22,Male,33.77,0,No,S.E.,1674.6323,0-10K,15-25,Obese
+1,18,Male,33.77,1,No,S.E.,1725.5523,0-10K,15-25,Obese
+328,64,Female,33.8,1,Yes,S.W.,47928.03,40K-50K,55-65,Obese
+1134,28,Male,33.82,0,No,N.W.,19673.33573,10K-20K,25-35,Obese
+467,56,Female,33.82,2,No,N.W.,12643.3778,10K-20K,55-65,Obese
+1059,32,Male,33.82,1,No,N.W.,4462.7218,0-10K,25-35,Obese
+834,36,Male,33.82,1,No,N.W.,5377.4578,0-10K,35-45,Obese
+225,55,Male,33.88,3,No,S.E.,11987.1682,10K-20K,45-55,Obese
+525,18,Female,33.88,0,No,S.E.,11482.63485,10K-20K,15-25,Obese
+420,64,Male,33.88,0,Yes,S.E.,46889.2612,40K-50K,55-65,Obese
+124,47,Female,33.915,3,No,N.W.,10115.00885,10K-20K,45-55,Obese
+642,61,Male,33.915,0,No,N.E.,13143.86485,10K-20K,55-65,Obese
+1270,26,Male,33.915,1,No,N.W.,3292.52985,0-10K,25-35,Obese
+522,51,Female,33.915,0,No,N.E.,9866.30485,0-10K,45-55,Obese
+1099,25,Female,33.99,1,No,S.E.,3227.1211,0-10K,15-25,Obese
+915,24,Female,33.99,0,No,S.E.,2473.3341,0-10K,15-25,Obese
+75,57,Male,34.01,0,No,N.W.,11356.6609,10K-20K,55-65,Obese
+1149,42,Male,34.1,0,No,S.W.,5979.731,0-10K,35-45,Obese
+605,51,Female,34.1,0,No,S.E.,9283.562,0-10K,45-55,Obese
+1211,39,Male,34.1,2,No,S.E.,23563.01618,20K-30K,35-45,Obese
+996,39,Female,34.1,3,No,S.W.,7418.522,0-10K,35-45,Obese
+416,52,Male,34.1,0,No,S.E.,9140.951,0-10K,45-55,Obese
+136,19,Male,34.1,0,No,S.W.,1261.442,0-10K,15-25,Obese
+621,37,Male,34.1,4,Yes,S.W.,40182.246,40K-50K,35-45,Obese
+22,18,Male,34.1,0,No,S.E.,1137.011,0-10K,15-25,Obese
+325,40,Male,34.105,1,No,N.E.,6600.20595,0-10K,35-45,Obese
+1169,37,Female,34.105,1,No,N.W.,6112.35295,0-10K,35-45,Obese
+558,35,Female,34.105,3,Yes,N.W.,39983.42595,30K-40K,25-35,Obese
+742,53,Male,34.105,0,Yes,N.E.,43254.41795,40K-50K,45-55,Obese
+947,37,Male,34.2,1,Yes,N.E.,39047.285,30K-40K,35-45,Obese
+846,51,Female,34.2,1,No,S.W.,9872.701,0-10K,45-55,Obese
+271,50,Male,34.2,2,Yes,S.W.,42856.838,40K-50K,45-55,Obese
+1017,26,Female,34.2,2,No,S.W.,3987.926,0-10K,25-35,Obese
+774,41,Male,34.2,2,No,N.W.,7261.741,0-10K,35-45,Obese
+919,35,Female,34.21,1,No,S.E.,5245.2269,0-10K,25-35,Obese
+557,34,Male,34.21,0,No,S.E.,3935.1799,0-10K,25-35,Obese
+252,54,Male,34.21,2,Yes,S.E.,44260.7499,40K-50K,45-55,Obese
+929,41,Male,34.21,1,No,S.E.,6289.7549,0-10K,35-45,Obese
+574,57,Female,34.295,2,No,N.E.,13224.05705,10K-20K,55-65,Obese
+484,48,Male,34.3,3,No,S.W.,9563.029,0-10K,45-55,Obese
+1289,44,Male,34.32,1,No,S.E.,7147.4728,0-10K,35-45,Obese
+969,39,Female,34.32,5,No,S.E.,8596.8278,0-10K,35-45,Obese
+778,35,Male,34.32,3,No,S.E.,5934.3798,0-10K,25-35,Obese
+833,58,Male,34.39,0,No,N.W.,11743.9341,10K-20K,55-65,Obese
+298,31,Male,34.39,3,Yes,N.W.,38746.3551,30K-40K,25-35,Obese
+12,23,Male,34.4,0,No,S.W.,1826.843,0-10K,15-25,Obese
+396,43,Female,34.4,3,No,S.W.,8522.003,0-10K,35-45,Obese
+385,19,Male,34.4,0,No,S.W.,1261.859,0-10K,15-25,Obese
+500,29,Male,34.4,0,Yes,S.W.,36197.699,30K-40K,25-35,Obese
+814,36,Male,34.43,2,No,S.E.,5584.3057,0-10K,35-45,Obese
+194,18,Male,34.43,0,No,S.E.,1137.4697,0-10K,15-25,Obese
+1228,56,Male,34.43,0,No,S.E.,10594.2257,10K-20K,55-65,Obese
+53,36,Male,34.43,0,Yes,S.E.,37742.5757,30K-40K,35-45,Obese
+1271,25,Female,34.485,0,No,N.W.,3021.80915,0-10K,15-25,Obese
+1230,52,Male,34.485,3,Yes,N.W.,60021.39897,60K-70K,45-55,Obese
+335,64,Male,34.5,0,No,S.W.,13822.803,10K-20K,55-65,Obese
+760,22,Female,34.58,2,No,N.E.,3925.7582,0-10K,15-25,Obese
+1160,43,Female,34.58,1,No,N.W.,7727.2532,0-10K,35-45,Obese
+1025,21,Female,34.6,0,No,S.W.,2020.177,0-10K,15-25,Obese
+1218,46,Female,34.6,1,Yes,S.W.,41661.602,40K-50K,45-55,Obese
+988,34,Male,34.675,0,No,N.E.,4518.82625,0-10K,25-35,Obese
+129,38,Male,34.7,2,No,S.W.,6082.405,0-10K,35-45,Obese
+1313,19,Female,34.7,2,Yes,S.W.,36397.576,30K-40K,15-25,Obese
+735,49,Female,34.77,1,No,N.W.,9583.8933,0-10K,45-55,Obese
+93,35,Male,34.77,2,No,N.W.,5729.0053,0-10K,25-35,Obese
+47,28,Female,34.77,0,No,N.W.,3556.9223,0-10K,25-35,Obese
+1206,59,Female,34.8,2,No,S.W.,36910.60803,30K-40K,55-65,Obese
+223,19,Male,34.8,0,Yes,S.W.,34779.615,30K-40K,15-25,Obese
+173,35,Female,34.8,1,No,S.W.,5246.047,0-10K,25-35,Obese
+880,22,Male,34.8,3,No,S.W.,3443.064,0-10K,15-25,Obese
+611,38,Female,34.8,2,No,S.W.,6571.544,0-10K,35-45,Obese
+84,37,Female,34.8,2,Yes,S.W.,39836.519,30K-40K,35-45,Obese
+694,27,Female,34.8,1,No,S.W.,3577.999,0-10K,25-35,Obese
+1178,23,Female,34.865,0,No,N.E.,2899.48935,0-10K,15-25,Obese
+308,58,Male,34.865,0,No,N.E.,11944.59435,10K-20K,55-65,Obese
+700,21,Female,34.87,0,No,S.E.,2020.5523,0-10K,15-25,Obese
+1291,19,Male,34.9,0,Yes,S.W.,34828.654,30K-40K,15-25,Obese
+643,23,Female,34.96,3,No,N.W.,4466.6214,0-10K,15-25,Obese
+958,43,Male,34.96,1,Yes,N.E.,41034.2214,40K-50K,35-45,Obese
+1096,51,Female,34.96,2,Yes,N.E.,44641.1974,40K-50K,45-55,Obese
+109,63,Male,35.09,0,Yes,S.E.,47055.5321,40K-50K,55-65,Obese
+904,60,Female,35.1,0,No,S.W.,12644.589,10K-20K,55-65,Obese
+414,19,Female,35.15,0,No,N.W.,2134.9015,0-10K,15-25,Obese
+761,23,Male,35.2,1,No,S.W.,2416.955,0-10K,15-25,Obese
+654,59,Female,35.2,0,No,S.E.,12244.531,10K-20K,55-65,Obese
+49,36,Male,35.2,1,Yes,S.E.,38709.176,30K-40K,35-45,Obese
+710,18,Male,35.2,1,No,S.E.,1727.54,0-10K,15-25,Obese
+1031,55,Female,35.2,0,Yes,S.E.,44423.803,40K-50K,45-55,Obese
+962,63,Female,35.2,1,No,S.E.,14474.675,10K-20K,55-65,Obese
+1168,32,Male,35.2,2,No,S.W.,4670.64,0-10K,25-35,Obese
+1044,55,Male,35.245,1,No,N.E.,11394.06555,10K-20K,45-55,Obese
+353,33,Male,35.245,0,No,N.E.,12404.8791,10K-20K,25-35,Obese
+243,40,Male,35.3,3,No,S.W.,7196.867,0-10K,35-45,Obese
+933,45,Female,35.3,0,No,S.W.,7348.142,0-10K,35-45,Obese
+19,30,Male,35.3,0,Yes,S.W.,36837.467,30K-40K,25-35,Obese
+682,39,Male,35.3,2,Yes,S.W.,40103.89,40K-50K,35-45,Obese
+644,43,Male,35.31,2,No,S.E.,18806.14547,10K-20K,35-45,Obese
+516,20,Male,35.31,1,No,S.E.,27724.28875,20K-30K,15-25,Obese
+723,19,Male,35.4,0,No,S.W.,1263.249,0-10K,15-25,Obese
+974,26,Male,35.42,0,No,S.E.,2322.6218,0-10K,25-35,Obese
+546,28,Male,35.435,0,No,N.E.,3268.84665,0-10K,25-35,Obese
+739,29,Male,35.5,2,Yes,S.W.,44585.45587,40K-50K,25-35,Obese
+559,19,Male,35.53,0,No,N.W.,1646.4297,0-10K,15-25,Obese
+632,29,Female,35.53,0,No,S.E.,3366.6697,0-10K,25-35,Obese
+819,33,Female,35.53,0,Yes,N.W.,55135.40209,50K-60K,25-35,Obese
+158,30,Male,35.53,0,Yes,S.E.,36950.2567,30K-40K,25-35,Obese
+77,21,Male,35.53,0,No,S.E.,1532.4697,0-10K,15-25,Obese
+852,46,Female,35.53,0,Yes,N.E.,42111.6647,40K-50K,45-55,Obese
+30,22,Male,35.6,0,Yes,S.W.,35585.576,30K-40K,15-25,Obese
+50,18,Female,35.625,0,No,N.E.,2211.13075,0-10K,15-25,Obese
+477,25,Male,35.625,0,No,N.W.,2534.39375,0-10K,15-25,Obese
+390,48,Male,35.625,4,No,N.E.,10736.87075,10K-20K,45-55,Obese
+1186,20,Male,35.625,3,Yes,N.W.,37465.34375,30K-40K,15-25,Obese
+415,43,Female,35.64,1,No,S.E.,7345.7266,0-10K,35-45,Obese
+515,58,Male,35.7,0,No,S.W.,11362.755,10K-20K,55-65,Obese
+334,43,Female,35.72,2,No,N.E.,19144.57652,10K-20K,35-45,Obese
+113,21,Female,35.72,0,No,N.W.,2404.7338,0-10K,15-25,Obese
+1118,33,Male,35.75,1,Yes,S.E.,38282.7495,30K-40K,25-35,Obese
+697,41,Male,35.75,1,Yes,S.E.,40273.6455,40K-50K,35-45,Obese
+346,33,Male,35.75,2,No,S.E.,4889.9995,0-10K,25-35,Obese
+946,42,Male,35.8,2,No,S.W.,7160.094,0-10K,35-45,Obese
+945,56,Female,35.8,1,No,S.W.,11674.13,10K-20K,55-65,Obese
+805,45,Female,35.815,0,No,N.W.,7731.85785,0-10K,35-45,Obese
+1153,35,Female,35.815,1,No,N.W.,5630.45785,0-10K,25-35,Obese
+923,34,Male,35.815,0,No,N.W.,4320.41085,0-10K,25-35,Obese
+1018,54,Female,35.815,3,No,N.W.,12495.29085,10K-20K,45-55,Obese
+247,24,Male,35.86,0,No,S.E.,1986.9334,0-10K,15-25,Obese
+1127,35,Female,35.86,2,No,S.E.,5836.5204,0-10K,25-35,Obese
+313,49,Male,35.86,0,No,S.E.,8124.4084,0-10K,45-55,Obese
+421,61,Male,35.86,0,Yes,S.E.,46599.1084,40K-50K,55-65,Obese
+132,53,Female,35.9,2,No,S.W.,11163.568,10K-20K,45-55,Obese
+658,48,Female,35.91,1,No,N.E.,26392.26029,20K-30K,45-55,Obese
+588,61,Female,35.91,0,No,N.E.,13635.6379,10K-20K,55-65,Obese
+782,51,Male,35.97,1,No,S.E.,9386.1613,0-10K,45-55,Obese
+312,43,Male,35.97,3,Yes,S.E.,42124.5153,40K-50K,35-45,Obese
+835,42,Male,35.97,2,No,S.E.,7160.3303,0-10K,35-45,Obese
+801,64,Female,35.97,0,No,S.E.,14313.8463,10K-20K,55-65,Obese
+139,22,Female,36.0,0,No,S.W.,2166.732,0-10K,15-25,Obese
+748,47,Female,36.0,1,No,S.W.,8556.907,0-10K,45-55,Obese
+20,60,Female,36.005,0,No,N.E.,13228.84695,10K-20K,55-65,Obese
+1103,58,Male,36.08,0,No,S.E.,11363.2832,10K-20K,55-65,Obese
+729,41,Female,36.08,1,No,S.E.,6781.3542,0-10K,35-45,Obese
+203,27,Female,36.08,0,Yes,S.E.,37133.8982,30K-40K,25-35,Obese
+1022,47,Male,36.08,1,Yes,S.E.,42211.1382,40K-50K,45-55,Obese
+770,61,Male,36.1,3,No,S.W.,27941.28758,20K-30K,55-65,Obese
+630,53,Male,36.1,1,No,S.W.,10085.846,10K-20K,45-55,Obese
+678,56,Male,36.1,3,No,S.W.,12363.547,10K-20K,55-65,Obese
+1090,47,Male,36.19,0,Yes,S.E.,41676.0811,40K-50K,45-55,Obese
+68,40,Female,36.19,0,No,S.E.,5920.1041,0-10K,35-45,Obese
+533,37,Male,36.19,0,No,S.E.,19214.70553,10K-20K,35-45,Obese
+230,42,Female,36.195,1,No,N.W.,7443.64305,0-10K,35-45,Obese
+691,47,Male,36.2,1,No,S.W.,8068.185,0-10K,45-55,Obese
+870,50,Male,36.2,0,No,S.W.,8457.818,0-10K,45-55,Obese
+998,33,Female,36.29,3,No,N.E.,6551.7501,0-10K,25-35,Obese
+653,45,Female,36.3,2,No,S.E.,8527.532,0-10K,35-45,Obese
+29,31,Male,36.3,2,Yes,S.W.,38711.0,30K-40K,25-35,Obese
+1284,61,Male,36.3,1,Yes,S.W.,47403.88,40K-50K,55-65,Obese
+542,63,Female,36.3,0,No,S.E.,13887.204,10K-20K,55-65,Obese
+330,61,Female,36.385,1,Yes,N.E.,48517.56315,40K-50K,55-65,Obese
+1256,51,Female,36.385,3,No,N.W.,11436.73815,10K-20K,45-55,Obese
+34,28,Male,36.4,1,Yes,S.W.,51194.55914,50K-60K,25-35,Obese
+327,45,Male,36.48,2,Yes,N.W.,42760.5022,40K-50K,35-45,Obese
+772,44,Female,36.48,0,No,N.E.,12797.20962,10K-20K,35-45,Obese
+1151,58,Female,36.48,0,No,N.W.,12235.8392,10K-20K,55-65,Obese
+443,59,Female,36.52,1,No,S.E.,28287.89766,20K-30K,55-65,Obese
+1193,48,Female,36.575,0,No,N.W.,8671.19125,0-10K,45-55,Obese
+807,19,Female,36.575,0,No,N.W.,2136.88225,0-10K,15-25,Obese
+721,53,Male,36.6,3,No,S.W.,11264.541,10K-20K,45-55,Obese
+460,49,Female,36.63,3,No,S.E.,10381.4787,10K-20K,45-55,Obese
+41,31,Female,36.63,2,No,S.E.,4949.7587,0-10K,25-35,Obese
+615,47,Female,36.63,1,Yes,S.E.,42969.8527,40K-50K,45-55,Obese
+959,48,Male,36.67,1,No,N.W.,28468.91901,20K-30K,45-55,Obese
+718,51,Female,36.67,2,No,N.W.,10848.1343,10K-20K,45-55,Obese
+38,35,Male,36.67,1,Yes,N.E.,39774.2763,30K-40K,25-35,Obese
+240,23,Female,36.67,2,Yes,N.E.,38511.6283,30K-40K,15-25,Obese
+329,52,Male,36.7,0,No,S.W.,9144.565,0-10K,45-55,Obese
+288,59,Female,36.765,1,Yes,N.E.,47896.79135,40K-50K,55-65,Obese
+964,52,Male,36.765,2,No,N.W.,26467.09737,20K-30K,45-55,Obese
+343,63,Male,36.765,0,No,N.E.,13981.85035,10K-20K,55-65,Obese
+478,21,Male,36.85,0,No,S.E.,1534.3045,0-10K,15-25,Obese
+997,63,Female,36.85,0,No,S.E.,13887.9685,10K-20K,55-65,Obese
+161,18,Female,36.85,0,Yes,S.E.,36149.4835,30K-40K,15-25,Obese
+903,49,Male,36.85,0,No,S.E.,8125.7845,0-10K,45-55,Obese
+1335,18,Female,36.85,0,No,S.E.,1629.8335,0-10K,15-25,Obese
+573,62,Female,36.86,1,No,N.E.,31620.00106,30K-40K,55-65,Obese
+787,21,Male,36.86,0,No,N.W.,1917.3184,0-10K,15-25,Obese
+1122,53,Female,36.86,3,Yes,N.W.,46661.4424,40K-50K,45-55,Obese
+786,60,Male,36.955,0,No,N.E.,12741.16745,10K-20K,55-65,Obese
+263,19,Male,36.955,0,Yes,N.W.,36219.40545,30K-40K,15-25,Obese
+55,58,Male,36.955,2,Yes,N.W.,47496.49445,40K-50K,55-65,Obese
+1050,44,Female,36.955,1,No,N.W.,8023.13545,0-10K,35-45,Obese
+1241,64,Male,36.96,2,Yes,S.E.,49577.6624,40K-50K,55-65,Obese
+1020,51,Male,37.0,0,No,S.W.,8798.593,0-10K,45-55,Obese
+166,20,Female,37.0,5,No,S.W.,4830.63,0-10K,15-25,Obese
+44,38,Male,37.05,1,No,N.E.,6079.6715,0-10K,35-45,Obese
+272,41,Male,37.05,2,No,N.W.,7265.7025,0-10K,35-45,Obese
+883,51,Female,37.05,3,Yes,N.E.,46255.1125,40K-50K,45-55,Obese
+1036,22,Male,37.07,2,Yes,S.E.,37484.4493,30K-40K,15-25,Obese
+1070,37,Male,37.07,1,Yes,S.E.,39871.7043,30K-40K,35-45,Obese
+1140,50,Male,37.07,1,No,S.E.,9048.0273,0-10K,45-55,Obese
+1209,59,Male,37.1,1,No,S.W.,12347.172,10K-20K,55-65,Obese
+120,44,Male,37.1,2,No,S.W.,7740.337,0-10K,35-45,Obese
+619,55,Female,37.1,0,No,S.W.,10713.644,10K-20K,45-55,Obese
+1261,28,Male,37.1,1,No,S.W.,3277.161,0-10K,25-35,Obese
+817,23,Male,37.1,3,No,S.W.,3597.596,0-10K,15-25,Obese
+215,41,Female,37.1,2,No,S.W.,7371.772,0-10K,35-45,Obese
+152,32,Female,37.145,3,No,N.E.,6334.34355,0-10K,25-35,Obese
+1227,42,Male,37.18,2,No,S.E.,7162.0122,0-10K,35-45,Obese
+934,32,Male,37.18,2,No,S.E.,4673.3922,0-10K,25-35,Obese
+571,18,Female,37.29,1,No,S.E.,2219.4451,0-10K,15-25,Obese
+1217,29,Male,37.29,2,No,S.E.,4058.1161,0-10K,25-35,Obese
+866,18,Male,37.29,0,No,S.E.,1141.4451,0-10K,15-25,Obese
+1066,48,Male,37.29,2,No,S.E.,8978.1851,0-10K,45-55,Obese
+45,55,Male,37.3,0,No,S.W.,20630.28351,20K-30K,45-55,Obese
+59,34,Female,37.335,2,No,N.W.,5989.52365,0-10K,25-35,Obese
+319,32,Male,37.335,1,No,N.E.,4667.60765,0-10K,25-35,Obese
+455,59,Male,37.4,0,No,S.W.,21797.0004,20K-30K,55-65,Obese
+722,62,Male,37.4,0,No,S.W.,12979.358,10K-20K,55-65,Obese
+127,52,Female,37.4,0,No,S.W.,9634.538,0-10K,45-55,Obese
+148,53,Female,37.43,1,No,N.W.,10959.6947,10K-20K,45-55,Obese
+391,19,Female,37.43,0,No,N.W.,2138.0707,0-10K,15-25,Obese
+758,30,Male,37.43,3,No,N.E.,5428.7277,0-10K,25-35,Obese
+302,56,Female,37.51,2,No,S.E.,12265.5069,10K-20K,55-65,Obese
+481,49,Male,37.51,2,No,S.E.,9304.7019,0-10K,45-55,Obese
+599,52,Female,37.525,2,No,N.W.,33471.97189,30K-40K,45-55,Obese
+95,28,Female,37.62,1,No,S.E.,3766.8838,0-10K,25-35,Obese
+82,22,Male,37.62,1,Yes,S.E.,37165.1638,30K-40K,15-25,Obese
+175,63,Female,37.7,0,Yes,S.W.,48824.45,40K-50K,55-65,Obese
+1258,55,Male,37.715,3,No,N.W.,30063.58055,30K-40K,45-55,Obese
+147,51,Female,37.73,1,No,S.E.,9877.6077,0-10K,45-55,Obese
+523,38,Female,37.73,0,No,S.E.,5397.6167,0-10K,35-45,Obese
+609,30,Male,37.8,2,Yes,S.W.,39241.442,30K-40K,25-35,Obese
+1255,42,Female,37.9,0,No,S.W.,6474.013,0-10K,35-45,Obese
+752,64,Male,37.905,0,No,N.W.,14210.53595,10K-20K,55-65,Obese
+628,58,Male,38.0,0,No,S.W.,11365.952,10K-20K,55-65,Obese
+540,34,Female,38.0,3,No,S.W.,6196.448,0-10K,25-35,Obese
+304,57,Female,38.0,2,No,S.W.,12646.207,10K-20K,55-65,Obese
+706,51,Female,38.06,0,Yes,S.E.,44400.4064,40K-50K,45-55,Obese
+239,44,Male,38.06,1,No,S.E.,7152.6714,0-10K,35-45,Obese
+665,43,Male,38.06,2,Yes,S.E.,42560.4304,40K-50K,35-45,Obese
+264,53,Female,38.06,3,No,S.E.,20462.99766,20K-30K,45-55,Obese
+226,28,Male,38.06,0,No,S.E.,2689.4954,0-10K,25-35,Obese
+246,60,Female,38.06,0,No,S.E.,12648.7034,10K-20K,55-65,Obese
+488,44,Female,38.06,0,Yes,S.E.,48885.13561,40K-50K,35-45,Obese
+577,31,Female,38.095,1,Yes,N.E.,58571.07448,50K-60K,25-35,Obese
+637,35,Female,38.095,2,No,N.E.,24915.04626,20K-30K,25-35,Obese
+462,62,Female,38.095,2,No,N.E.,15230.32405,10K-20K,55-65,Obese
+399,18,Female,38.17,0,No,S.E.,1631.6683,0-10K,15-25,Obese
+759,18,Male,38.17,0,Yes,S.E.,36307.7983,30K-40K,15-25,Obese
+1121,46,Male,38.17,2,No,S.E.,8347.1643,0-10K,45-55,Obese
+635,64,Male,38.19,0,No,N.E.,14410.9321,10K-20K,55-65,Obese
+354,18,Female,38.28,0,No,S.E.,14133.03775,10K-20K,15-25,Obese
+97,55,Male,38.28,0,No,S.E.,10226.2842,10K-20K,45-55,Obese
+181,18,Female,38.28,0,No,S.E.,1631.8212,0-10K,15-25,Obese
+81,45,Female,38.285,0,No,N.E.,7935.29115,0-10K,35-45,Obese
+405,52,Female,38.38,2,No,N.E.,11396.9002,10K-20K,45-55,Obese
+1034,61,Male,38.38,0,No,N.W.,12950.0712,10K-20K,55-65,Obese
+736,37,Female,38.39,0,Yes,S.E.,40419.0191,40K-50K,35-45,Obese
+1111,38,Male,38.39,3,Yes,S.E.,41949.2441,40K-50K,35-45,Obese
+237,31,Male,38.39,2,No,S.E.,4463.2051,0-10K,25-35,Obese
+1329,52,Male,38.6,2,No,S.W.,10325.206,10K-20K,45-55,Obese
+449,35,Male,38.6,1,No,S.W.,4762.329,0-10K,25-35,Obese
+46,18,Female,38.665,2,No,N.E.,3393.35635,0-10K,15-25,Obese
+145,29,Female,38.83,3,No,S.E.,5138.2567,0-10K,25-35,Obese
+1162,30,Male,38.83,1,No,S.E.,18963.17192,10K-20K,25-35,Obese
+1322,62,Male,38.83,0,No,S.E.,12981.3457,10K-20K,55-65,Obese
+536,33,Female,38.9,3,No,S.W.,5972.378,0-10K,25-35,Obese
+893,47,Male,38.94,2,Yes,S.E.,44202.6536,40K-50K,45-55,Obese
+1102,29,Male,38.94,1,No,S.E.,3471.4096,0-10K,25-35,Obese
+629,44,Female,38.95,0,Yes,N.W.,42983.4585,40K-50K,35-45,Obese
+603,64,Female,39.05,3,No,S.E.,16085.1275,10K-20K,55-65,Obese
+386,58,Female,39.05,0,No,S.E.,11856.4115,10K-20K,55-65,Obese
+725,30,Female,39.05,3,Yes,S.E.,40932.4295,40K-50K,25-35,Obese
+66,61,Female,39.1,2,No,S.W.,14235.072,10K-20K,55-65,Obese
+1215,18,Male,39.14,0,No,N.E.,12890.05765,10K-20K,15-25,Obese
+418,64,Male,39.16,1,No,S.E.,14418.2804,10K-20K,55-65,Obese
+600,18,Female,39.16,0,No,S.E.,1633.0444,0-10K,15-25,Obese
+928,62,Female,39.16,0,No,S.E.,13470.8044,10K-20K,55-65,Obese
+499,62,Female,39.2,0,No,S.W.,13470.86,10K-20K,55-65,Obese
+699,23,Female,39.27,2,No,S.E.,3500.6123,0-10K,15-25,Obese
+199,64,Female,39.33,0,No,N.E.,14901.5167,10K-20K,55-65,Obese
+1288,20,Male,39.4,2,Yes,S.W.,38344.566,30K-40K,15-25,Obese
+528,46,Male,39.425,1,No,N.E.,8342.90875,0-10K,45-55,Obese
+955,31,Male,39.49,1,No,S.E.,3875.7341,0-10K,25-35,Obese
+90,21,Female,39.49,0,No,S.E.,2026.9741,0-10K,15-25,Obese
+1058,24,Female,39.49,0,No,S.E.,2480.9791,0-10K,15-25,Obese
+483,51,Female,39.5,1,No,S.W.,9880.068,0-10K,45-55,Obese
+888,22,Male,39.5,0,No,S.W.,1682.597,0-10K,15-25,Obese
+155,44,Male,39.52,0,No,N.W.,6948.7008,0-10K,35-45,Obese
+162,54,Male,39.6,1,No,S.W.,10450.552,10K-20K,45-55,Obese
+651,53,Female,39.6,1,No,S.E.,10579.711,10K-20K,45-55,Obese
+458,56,Male,39.6,0,No,S.W.,10601.412,10K-20K,55-65,Obese
+960,19,Female,39.615,1,No,N.W.,2730.10785,0-10K,15-25,Obese
+634,51,Male,39.7,1,No,S.W.,9391.346,0-10K,45-55,Obese
+768,64,Female,39.7,0,No,S.W.,14319.031,10K-20K,55-65,Obese
+1318,35,Male,39.71,4,No,N.E.,19496.71917,10K-20K,25-35,Obese
+908,63,Male,39.8,3,No,S.W.,15170.069,10K-20K,55-65,Obese
+777,45,Male,39.805,0,No,N.E.,7448.40395,0-10K,35-45,Obese
+78,22,Female,39.805,0,No,N.E.,2755.02095,0-10K,15-25,Obese
+1225,33,Female,39.82,1,No,S.E.,4795.6568,0-10K,25-35,Obese
+1248,18,Female,39.82,0,No,S.E.,1633.9618,0-10K,15-25,Obese
+13,56,Female,39.82,0,No,S.E.,11090.7178,10K-20K,55-65,Obese
+39,60,Male,39.9,0,Yes,S.W.,48173.361,40K-50K,55-65,Obese
+944,62,Male,39.93,0,No,S.E.,12982.8747,10K-20K,55-65,Obese
+978,45,Female,39.995,3,No,N.E.,9704.66805,0-10K,35-45,Obese
+377,24,Male,40.15,0,Yes,S.E.,38126.2465,30K-40K,15-25,Obese
+976,48,Male,40.15,0,No,S.E.,7804.1605,0-10K,45-55,Obese
+257,38,Female,40.15,0,No,S.E.,5400.9805,0-10K,35-45,Obese
+942,18,Female,40.185,0,No,N.E.,2217.46915,0-10K,15-25,Obese
+695,26,Female,40.185,0,No,N.W.,3201.24515,0-10K,25-35,Obese
+594,41,Male,40.26,0,No,S.E.,5709.1644,0-10K,35-45,Obese
+898,18,Female,40.26,0,No,S.E.,1634.5734,0-10K,15-25,Obese
+1132,57,Male,40.28,0,No,N.E.,20709.02034,20K-30K,55-65,Obese
+728,18,Female,40.28,0,No,N.E.,2217.6012,0-10K,15-25,Obese
+18,56,Male,40.3,0,No,S.W.,10602.385,10K-20K,55-65,Obese
+1323,42,Female,40.37,2,Yes,S.E.,43896.3763,40K-50K,35-45,Obese
+1166,57,Male,40.37,0,No,S.E.,10982.5013,10K-20K,55-65,Obese
+1201,46,Male,40.375,2,No,N.W.,8733.22925,0-10K,45-55,Obese
+713,20,Male,40.47,0,No,N.E.,1984.4533,0-10K,15-25,Obese
+534,64,Male,40.48,0,No,S.E.,13831.1152,10K-20K,55-65,Obese
+973,19,Female,40.5,0,No,S.W.,1759.338,0-10K,15-25,Obese
+569,48,Male,40.565,2,Yes,N.W.,45702.02235,40K-50K,45-55,Obese
+566,38,Female,40.565,1,No,N.W.,6373.55735,0-10K,35-45,Obese
+281,54,Male,40.565,3,Yes,N.E.,48549.17835,40K-50K,45-55,Obese
+720,51,Female,40.66,0,No,N.E.,9875.6804,0-10K,45-55,Obese
+676,55,Female,40.81,3,No,S.E.,12485.8009,10K-20K,45-55,Obese
+901,60,Male,40.92,0,Yes,S.E.,48673.5588,40K-50K,55-65,Obese
+323,57,Male,40.945,0,No,N.E.,11566.30055,10K-20K,55-65,Obese
+1159,32,Female,41.1,0,No,S.W.,3989.841,0-10K,25-35,Obese
+781,18,Male,41.14,0,No,S.E.,1146.7966,0-10K,15-25,Obese
+1062,59,Male,41.14,1,Yes,S.E.,48970.2476,40K-50K,55-65,Obese
+83,48,Female,41.23,4,No,N.W.,11033.6617,10K-20K,45-55,Obese
+209,40,Male,41.23,1,No,N.E.,6610.1097,0-10K,35-45,Obese
+480,63,Male,41.325,3,No,N.W.,15555.18875,10K-20K,55-65,Obese
+1180,42,Female,41.325,1,No,N.E.,7650.77375,0-10K,35-45,Obese
+554,25,Female,41.325,0,No,N.E.,17878.90068,10K-20K,15-25,Obese
+806,40,Female,41.42,1,No,N.W.,28476.73499,20K-30K,35-45,Obese
+344,49,Female,41.47,4,No,S.E.,10977.2063,10K-20K,45-55,Obese
+702,53,Male,41.47,0,No,S.E.,9504.3103,0-10K,45-55,Obese
+170,63,Male,41.47,0,No,S.E.,13405.3903,10K-20K,55-65,Obese
+687,40,Male,41.69,0,No,S.E.,5438.7491,0-10K,35-45,Obese
+1240,52,Male,41.8,2,Yes,S.E.,47269.854,40K-50K,45-55,Obese
+790,39,Female,41.8,0,No,S.E.,5662.225,0-10K,35-45,Obese
+185,36,Male,41.895,3,Yes,N.E.,43753.33705,40K-50K,35-45,Obese
+1172,56,Female,41.91,0,No,S.E.,11093.6229,10K-20K,55-65,Obese
+227,58,Female,41.91,0,No,S.E.,24227.33724,20K-30K,55-65,Obese
+358,23,Male,41.91,0,No,S.E.,1837.2819,0-10K,15-25,Obese
+1161,34,Male,42.13,2,No,S.E.,5124.1887,0-10K,25-35,Obese
+14,27,Male,42.13,0,Yes,S.E.,39611.7577,30K-40K,25-35,Obese
+1239,25,Female,42.13,1,No,S.E.,3238.4357,0-10K,15-25,Obese
+530,57,Male,42.13,1,Yes,S.E.,48675.5177,40K-50K,55-65,Obese
+803,18,Female,42.24,0,Yes,S.E.,38792.6856,30K-40K,15-25,Obese
+265,46,Male,42.35,3,Yes,S.E.,46151.1245,40K-50K,45-55,Obese
+640,33,Male,42.4,5,No,S.W.,6666.243,0-10K,25-35,Obese
+656,26,Female,42.4,1,No,S.W.,3410.324,0-10K,25-35,Obese
+627,33,Male,42.46,1,No,S.E.,11326.71487,10K-20K,25-35,Obese
+1067,39,Male,42.655,0,No,N.E.,5757.41345,0-10K,35-45,Obese
+650,49,Female,42.68,2,No,S.E.,9800.8882,0-10K,45-55,Obese
+1124,23,Female,42.75,1,Yes,N.E.,40904.1995,40K-50K,15-25,Obese
+951,51,Male,42.9,2,Yes,S.E.,47462.894,40K-50K,45-55,Obese
+1312,34,Male,42.9,1,No,S.W.,4536.259,0-10K,25-35,Obese
+811,33,Female,42.94,3,No,N.W.,6360.9936,0-10K,25-35,Obese
+442,18,Male,43.01,0,No,S.E.,1149.3959,0-10K,15-25,Obese
+572,30,Female,43.12,2,No,S.E.,4753.6368,0-10K,25-35,Obese
+383,35,Female,43.34,2,No,S.E.,5846.9176,0-10K,25-35,Obese
+493,61,Male,43.4,0,No,S.W.,12574.049,10K-20K,55-65,Obese
+867,57,Male,43.7,1,No,S.W.,11576.13,10K-20K,55-65,Obese
+674,44,Female,43.89,2,Yes,S.E.,46200.9851,40K-50K,35-45,Obese
+356,46,Male,43.89,3,No,S.E.,8944.1151,0-10K,45-55,Obese
+895,61,Female,44.0,0,No,S.W.,13063.883,10K-20K,55-65,Obese
+796,30,Male,44.22,2,No,S.E.,4266.1658,0-10K,25-35,Obese
+521,32,Female,44.22,0,No,S.E.,3994.1778,0-10K,25-35,Obese
+1332,52,Female,44.7,3,No,S.W.,11411.685,10K-20K,45-55,Obese
+701,50,Female,44.745,0,No,N.E.,9541.69555,0-10K,45-55,Obese
+563,50,Male,44.77,1,No,S.E.,9058.7303,0-10K,45-55,Obese
+1156,19,Male,44.88,0,Yes,S.E.,39722.7462,30K-40K,15-25,Obese
+1024,47,Female,45.32,1,No,S.E.,8569.8618,0-10K,45-55,Obese
+582,39,Male,45.43,2,No,S.E.,6356.2707,0-10K,35-45,Obese
+292,25,Male,45.54,2,Yes,S.E.,42112.2356,40K-50K,15-25,Obese
+1131,27,Male,45.9,2,No,S.W.,3693.428,0-10K,25-35,Obese
+941,50,Female,46.09,1,No,S.E.,9549.5651,0-10K,45-55,Obese
+549,43,Female,46.2,0,Yes,S.E.,45863.205,40K-50K,35-45,Obese
+930,26,Male,46.53,1,No,S.E.,2927.0647,0-10K,25-35,Obese
+454,32,Male,46.53,2,No,S.E.,4686.3887,0-10K,25-35,Obese
+660,37,Male,46.53,3,No,S.E.,6435.6237,0-10K,35-45,Obese
+547,54,Female,46.7,2,No,S.W.,11538.421,10K-20K,45-55,Obese
+438,52,Female,46.75,5,No,S.E.,12592.5345,10K-20K,45-55,Obese
+543,54,Female,47.41,0,Yes,S.E.,63770.42801,60K-70K,45-55,Obese
+401,47,Male,47.52,1,No,S.E.,8083.9198,0-10K,45-55,Obese
+860,37,Female,47.6,2,Yes,S.W.,46113.511,40K-50K,35-45,Obese
+1088,52,Male,47.74,1,No,S.E.,9748.9106,0-10K,45-55,Obese
+286,46,Female,48.07,2,No,N.E.,9432.9253,0-10K,45-55,Obese
+116,58,Male,49.06,0,No,S.E.,11381.3254,10K-20K,55-65,Obese
+847,23,Male,50.38,1,No,S.E.,2438.0552,0-10K,15-25,Obese
+1047,22,Male,52.58,1,Yes,S.E.,44501.3982,40K-50K,15-25,Obese
+1317,18,Male,53.13,0,No,S.E.,1163.4627,0-10K,15-25,Obese
