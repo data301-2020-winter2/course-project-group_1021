@@ -42,6 +42,9 @@ This dataset was obtained from the book *Machine Learning with R* by Brett Lantz
 
 - **Ravi:** https://us-west-2b.online.tableau.com/#/site/data301/workbooks/345822?:origin=card_share_link
 
+## Video Presentation Link
+https://youtu.be/G_8mB5-2WJM
+
 ## References
 Lantz, B. (2015). *Machine Learning with R - Second Edition*. Birmingham: Packt Publishing.
 
